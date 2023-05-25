@@ -1,0 +1,75 @@
+---
+title: "Bylaws"
+author: Jakob Eschler
+date: 25.05.23
+output: md_document
+---
+
+# Bylaws
+## Preamble
+
+Die folgenden Statuten der *Fantasy Football Contract League (FCL)* des Bohndesverbands für Fantasy-Sport bilden die Grundlage für den geordneten Ligabetrieb. Mit ihnen sollen alle auftretenden Situationen geklärt und Uneinigkeiten zu Regeln vorgebeugt werden. Sollten bestimmte Umstände noch nicht festgehalten sein, wende Dich bitte an einen der Commissioner. Gemeinsam wird dann im Sinne der gesamten Liga nach einer Lösung gesucht.
+
+Auch wenn Du Anmerkungen oder Kritik zu Regeln hast, oder dir etwas nicht klar ist, melde dich bei den Commissionern.
+
+> **_NOTE:_**  Liganame abstimmen
+
+### Bohndesverband für Fantasy-Sport
+
+Der [Bohndesverband für Fantasy-Sport](https://bohndesverband.de/) ist ein [Rocket Beans TV](https://rocketbeans.tv/) Community-Projekt. Er ist ein Zusammenschluss aller Fantasy-Sport-Aktivitäten innerhalb der Community und bietet Platz für alle Sportarten. Derzeit gibt es einige Fantasy Football (NFL) Ligen.
+
+```{r, child = "snippets/1_commissioner.md"}
+```
+
+```{r, child = "snippets/2_administration.md"}
+```
+
+```{r, child = "snippets/3_struktur.md"}
+```
+
+```{r, child = "snippets/4_vertraege.md"}
+```
+
+```{r, child = "snippets/5_roster.md"}
+```
+
+```{r, child = "snippets/6_free-agents.md"}
+```
+
+```{r, child = "snippets/7_trades.md"}
+```
+
+```{r, child = "snippets/8_rahmenkalender.md"}
+```
+
+```{r, child = "snippets/9_regular-season-playoffs.md"}
+```
+
+```{r, child = "snippets/11_standings.md"}
+```
+
+```{r, child = "snippets/12_offseason/12_offseason.md"}
+```
+
+```{r, child = "snippets/12_offseason/12_1-rfa.md"}
+```
+
+```{r, child = "snippets/12_offseason/12_2-vertragsverlaengerungen.md"}
+```
+
+```{r, child = "snippets/12_offseason/12_3-eft.md"}
+```
+
+```{r, child = "snippets/12_offseason/12_4-vertragsverhandlungen.md"}
+```
+
+```{r, child = "snippets/13_draft.md"}
+```
+
+```{r, child = "snippets/14_regelaenderungen.md"}
+```
+
+```{r, child = "snippets/15_strafen.md"}
+```
+
+
