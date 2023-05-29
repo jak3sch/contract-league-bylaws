@@ -1,4 +1,4 @@
-## §5 Verträge
+## §4 Verträge
 
 1. Jeder Owner hat ein Kontingent von 100 Vertragsjahren.
 
