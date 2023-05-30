@@ -9,11 +9,10 @@
 7. Deadline für die Übermittlung der Listen für die Vertragsverhandlungen: 2. Sonntag im Juli
 8. Vertragsverhandlungen: Terminabstimmung Ende Juli als Liga Event
 
-    1. Sollte ein Owner zum vereinbarten Termin nicht verfügbar sein, kann ein Einzeltermin mit den Commissionern für diese Phase des betreffenden Teams ausgemacht werden. Findet sich kein Termin, wird am vereinbarten Termin von den Commissionern gewürfelt.
-    
+   1. Sollte ein Owner zum vereinbarten Termin nicht verfügbar sein, kann ein Einzeltermin mit den Commissionern für diese Phase des betreffenden Teams ausgemacht werden. Findet sich kein Termin, wird am vereinbarten Termin von den Commissionern gewürfelt.
+
 9. Rookie/FA Draft: Mitte August
 10. Die Roster Cuts richten sich nach denen der NFL
-11. Saisonabschluss: nach Woche 17 der NFL
-12. Alle nicht gesetzten Daten werden bis zum Saisonstart innerhalb der Liga abgestimmt um langfristig planen zu können.
-
-> **_NOTE:_**  Abstimmung zum Start der Liga ob Zeitplan gestrafft werden soll.
+11. Trade Deadline: TNF Woche 12.
+12. Saisonabschluss: nach Woche 17 der NFL
+13. Alle nicht gesetzten Daten werden bis zum Saisonstart innerhalb der Liga abgestimmt um langfristig planen zu können.

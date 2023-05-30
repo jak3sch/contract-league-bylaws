@@ -6,6 +6,9 @@ output: md_document
 ---
 
 # Bylaws
+
+[Erklärung der Bylaws auf YouTube anschauen](https://www.youtube.com/watch?v=tLSrQsLcgwY)
+
 ## Preamble
 
 Die folgenden Statuten der *Fantasy Football Contract League (FCL)* des Bohndesverbands für Fantasy-Sport bilden die Grundlage für den geordneten Ligabetrieb. Mit ihnen sollen alle auftretenden Situationen geklärt und Uneinigkeiten zu Regeln vorgebeugt werden. Sollten bestimmte Umstände noch nicht festgehalten sein, wende Dich bitte an einen der Commissioner. Gemeinsam wird dann im Sinne der gesamten Liga nach einer Lösung gesucht.

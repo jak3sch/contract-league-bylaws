@@ -1,5 +1,8 @@
 # Bylaws
 
+[Erklärung der Bylaws auf YouTube
+anschauen](https://www.youtube.com/watch?v=tLSrQsLcgwY)
+
 ## Preamble
 
 Die folgenden Statuten der *Fantasy Football Contract League (FCL)* des
@@ -37,14 +40,10 @@ Fantasy Football (NFL) Ligen.
     -   Manuel
 
 3.  Um mit den Commissionern in Kontakt zu treten, hast du folgende
-    Möglichkeiten:
+    Möglichkeit:
 
-    -   Mailadresse der Commissioner:
-    -   Privatnachricht
-    -   Kontakt über die WhatsApp-Gruppe (oder die dort hinterlegten
-        Handynummern)
-
-> ***NOTE:*** E-Mail Adresse einrichten?
+    -   Kontakt über die WhatsApp-Gruppe oder die dort hinterlegten
+        Handynummern
 
 ## §2 Administration
 
@@ -55,7 +54,9 @@ Fantasy Football (NFL) Ligen.
     Commissioner zu prüfen (stelle sicher, dass die Mails von uns nicht
     im Spam-Ordner landen).
 
-3.  Die Kosten für die Liga betragen jährlich 69,95$ in der early Bird
+3.  Hauptkommunikationskanal ist eine WhatsApp Gruppe.
+
+4.  Die Kosten für die Liga betragen jährlich 69,95$ in der early Bird
     Phase. Dieser Betrag wird zwischen allen Ownern gleichmäßig
     aufgeteilt.
 
@@ -66,8 +67,6 @@ Fantasy Football (NFL) Ligen.
     2.  Die Bankverbindung wird ebenfalls per Mail an dich versendet.
         Solltest Du deinen Ligabeitrag nicht bezahlen können, melde dich
         bei einem Commissioner. Es wird dann nach einer Lösung gesucht.
-
-> ***NOTE:*** Hauptkommunikation über WhatsApp?
 
 ## §3 Liga Struktur
 
@@ -137,7 +136,7 @@ Fantasy Football (NFL) Ligen.
 
 > ***NOTE:*** Liga Expansion? Regelmäßige Auslosung der Divisions?
 
-## §5 Verträge
+## §4 Verträge
 
 1.  Jeder Owner hat ein Kontingent von 100 Vertragsjahren.
 
@@ -311,9 +310,6 @@ Fantasy Football (NFL) Ligen.
 
     In der Offseason + IR und Anzahl Runden Rookiedraft
 
-    > ***NOTE:*** Abstimmung zu Ligastart: Mit oder ohne Special Teams?
-    > Wenn ohne, dann ein Offense Flex mehr?
-
 2.  Positionsgruppen
 
     1.  Es werden die von MFL vergebenen Positionsgruppen genutzt.
@@ -347,16 +343,10 @@ Fantasy Football (NFL) Ligen.
 ## §6 Free Agents/Waiver Wire
 
 1.  Alle Spieler werden mit Kick-Off Ihres Spiels gesperrt.
-
 2.  Dienstag Nacht 2 Uhr (kurz vor Kickoff des MNF Games) schließt der
     FA Markt komplett.
-
-    > ***NOTE:*** Abstimmung zum Start der Liga über tägliches WW bzw.
-    > Über Zeitpunkt und generelles FA System.
-
 3.  Mittwochs 7:00 Uhr werden fünf Runden Waiver Wire durchgeführt und
     im Anschluss der FA Markt geöffnet.
-
 4.  Die Reihenfolge des Waiver Wires ergibt sich die ersten drei Wochen
     der Regular Season nach der Draftorder der letzten Saison. Ab der
     vierten Woche gelten die standi.
@@ -371,6 +361,7 @@ Fantasy Football (NFL) Ligen.
 5.  Trades werden nicht reviewed. Im Falle eines klaren
     Ungleichgewichts, behalten sich die Commissioner einen
     nachträglichen Eingriff vor.
+6.  Trade Deadline ist vor TNF Kickoff von Woche 12.
 
 ## §8 Rahmenkalender
 
@@ -402,13 +393,12 @@ Fantasy Football (NFL) Ligen.
 
 10. Die Roster Cuts richten sich nach denen der NFL
 
-11. Saisonabschluss: nach Woche 17 der NFL
+11. Trade Deadline: TNF Woche 12.
 
-12. Alle nicht gesetzten Daten werden bis zum Saisonstart innerhalb der
+12. Saisonabschluss: nach Woche 17 der NFL
+
+13. Alle nicht gesetzten Daten werden bis zum Saisonstart innerhalb der
     Liga abgestimmt um langfristig planen zu können.
-
-> ***NOTE:*** Abstimmung zum Start der Liga ob Zeitplan gestrafft werden
-> soll.
 
 ## §9 Regular Season
 
@@ -428,6 +418,10 @@ Fantasy Football (NFL) Ligen.
 ## §10 Playoffs
 
 1.  Die beiden Division Sieger spielen in Woche 17 um den Ligatitel.
+2.  Die restlichen Teams spielen in Woche 17 ebenfalls, allerdings in
+    für die Draftorder unrelevanten Platzierungsspielen. Es spielen
+    immer die Teams mit der selben Platzierung aus beiden Divisions
+    gegeneinander.
 
 ## §11 Standings
 
@@ -443,9 +437,6 @@ Fantasy Football (NFL) Ligen.
     3.  Head to Head
     4.  Overall Winning Percentage
     5.  Total Points Scored
-
-> ***NOTE:*** Abstimmung zum Start der Liga. Tie breaker sind so
-> gewählt, im möglichst den matchup glück faktor zu minimieren.
 
 ## §12 Offseason
 
@@ -494,10 +485,15 @@ Fantasy Football (NFL) Ligen.
     RFA Auction Bid handelt (z.B. mit dem Vermerk “RFA Gebot”).
 
 9.  Erhält der besitzende Owner mindestens ein Gebot für seinen RFA,
-    muss er eines der Angebote annehmen.
+    kann er frei entscheiden, welches Angebot er annimmt.
 
-10. Der besitzende Owner kann frei entscheiden, welches Angebot er
-    annimmt.
+10. Entscheidet sich der Owner dagegen, ein RFA Tag Angebot anzunehmen,
+    erhält er in der nächsten Phase einen Malus auf seinen
+    Prestige-Wert:
+
+    1.  Für einen abgelehnten 1st Round Pick -3.
+    2.  Für einen abgelehnten 2nd Round Pick -2.
+    3.  Für einen anderen abgelehnten Pick -1.
 
 11. Der Spieler erhält automatisch einen Vertrag über 1 Jahr. Der neue
     Owner kann bis spätestens 48h nach dem Stichtag einen neuen Vertrag
