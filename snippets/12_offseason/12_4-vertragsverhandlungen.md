@@ -8,7 +8,7 @@
 
 1. Alle Owner können für maximal 3 UFA anonym ein Angebot in Form von Vertragsjahren abgeben.
 2. Der UFA darf nicht mit dem gleichen Team in Phase 2 verhandelt haben.
-3. Der Prestige-Wert eines Owners in dieser Phase entspricht dem letzten Prestige-Wert aus Phase 2 (RFA).
+3. Der Prestige-Wert eines Owners in dieser Phase entspricht dem Prestige-Wert aus Phase 2 (RFA) minus der Anzahl der erfolgreichen Proben.
 4. Die Gebote werden nach Vertragsdauer absteigend priorisiert.
 5. Nach jeder Probe sinkt der Prestige-Wert um 1.
 6. Der zu erreichende Wert ist immer Prestige-Wert + gebotene Vertragsdauer.
@@ -38,11 +38,11 @@
 
       **Beispiel**
 
-    |                   | Team 1             | Team 2   | Team 3   |
-    | ----------------- | ------------------ | -------- | -------- |
-    | Saisonplatzierung | 14 (#1)            | 7 (#2)   | 1 (#3)   |
-    | Würfelergebnis    | 6 (#2)             | 8 (#3)   | 1 (#1)   |
-    | Vertragslänge     | 3 Y (#1)           | 1 Y (#3) | 2 Y #(2) |
-    | Gesamtwert        | 4 (Spieler signed) | 8        | 6        |
+   |                   | Team 1             | Team 2   | Team 3   |
+   | ----------------- | ------------------ | -------- | -------- |
+   | Saisonplatzierung | 14 (#1)            | 7 (#2)   | 1 (#3)   |
+   | Würfelergebnis    | 6 (#2)             | 8 (#3)   | 1 (#1)   |
+   | Vertragslänge     | 3 Y (#1)           | 1 Y (#3) | 2 Y #(2) |
+   | Gesamtwert        | 4 (Spieler signed) | 8        | 6        |
 
-    Tie breaker: Saisonplatzierung (das schlechtere Team bekommt den Spieler)
+   Tie breaker: Saisonplatzierung (das schlechtere Team bekommt den Spieler)
