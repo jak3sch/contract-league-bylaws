@@ -8,6 +8,9 @@
 
    1. Teamzugehörigkeit: aufeinanderfolgende Seasons im Team mit mind. 8 Spielen (50%) im Starting Lineup oder mind. 12 Spiele (75%) im Roster (inkl. IR, falls Spieler verletzt war). Eine Saison gibt 1 Bonus. Die vergangene Saison zählt immer als 0.
 
+> **_COMISH NOTE:_** > Teamzugehörigkeit als extra Seite in Ligatool einrichten
+> Auch für Admin nach Ende des Ligajahres per Knopdruck alle Contract Infos der berechtigten Spieler anpassen
+
 6. Nach jeder Probe sinkt der Prestige-Wert um 1.
 7. Der Owner legt vor Beginn der Phase eine Liste mit der Reihenfolge der Verhandlungen fest.
 8. Übermittelt ein Owner keine Liste, werden die Spieler automatisch nach Total Points sortiert und erhalten einen gebotene Vertragsdauer von 2.
