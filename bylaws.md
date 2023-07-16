@@ -400,6 +400,10 @@ Fantasy Football (NFL) Ligen.
 13. Alle nicht gesetzten Daten werden bis zum Saisonstart innerhalb der
     Liga abgestimmt um langfristig planen zu können.
 
+> ***NOTE:*** Alle Zeitangaben im League Calendar sind in der EST
+> Zeitzone angegeben. Das sind i.d.R. 6h Zeitverschiebung zu uns, was
+> bedeutet, dass 2pm 20Uhr und 4pm 0Uhr des Folgetages sind.
+
 ## §9 Regular Season
 
 1.  Die Regular Season beginnt mit Woche 1 der NFL Saison.
@@ -442,8 +446,8 @@ Fantasy Football (NFL) Ligen.
 
 1.  Wenn die League Page ins neue Jahr transferiert wird, werden alle
     Spielerverträge um ein Jahr reduziert.
-2.  Sämtliche Free Agency Moves werden mit Hilfe eines W30 ausgewürfelt
-    (Würfel mit 30 Seiten).
+2.  Sämtliche Free Agency Moves werden mit Hilfe eines W24 ausgewürfelt
+    (Würfel mit 24 Seiten).
 3.  Jeder Owner besitzt einen Prestige-Wert, der zu Beginn der Liga für
     alle gleich ist.
 4.  Ziel eines jeden Würfel-Wurfs ist es, nicht über den benötigten
@@ -530,40 +534,30 @@ Fantasy Football (NFL) Ligen.
         Roster (inkl. IR, falls Spieler verletzt war). Eine Saison gibt
         1 Bonus. Die vergangene Saison zählt immer als 0.
 
-6.  Nach jeder Probe sinkt der Prestige-Wert um 1.
+> ***COMISH NOTE:*** &gt; Teamzugehörigkeit als extra Seite in Ligatool
+> einrichten Auch für Admin nach Ende des Ligajahres per Knopdruck alle
+> Contract Infos der berechtigten Spieler anpassen
 
-7.  Der Owner legt vor Beginn der Phase eine Liste mit der Reihenfolge
+1.  Nach jeder Probe sinkt der Prestige-Wert um 1.
+2.  Der Owner legt vor Beginn der Phase eine Liste mit der Reihenfolge
     der Verhandlungen fest.
-
-8.  Übermittelt ein Owner keine Liste, gehen automatisch die 5 Spieler
-    mit den meisten Total Points in die Verhandlung mit einer gebotenen
-    Vertragsdauer von 2.
-
-9.  Sobald eine Probe nicht geschafft wird (ein Spieler nicht
-    verlängert) endet für den Owner diese Phase.
-
-10. Jeder Owner darf in jedem Fall mit 5 Spielern Verhandlungen führen,
-    auch wenn eine Probe bereits früher nicht geschafft wird.
-
-    1.  Die Anzahl kann sich von Jahr zu Jahr ändern
-
-    > ***NOTE:*** Idee: dynamische Anpassung für jedes Team (z.B. 10%
-    > aller auslaufender Verträge)
-
-11. Es darf mit jedem Spieler nur einmal verhandelt werden.
-
-12. Spieler, die am Ende der Phase eine Vertragslaufzeit von 0 haben,
+3.  Übermittelt ein Owner keine Liste, werden die Spieler automatisch
+    nach Total Points sortiert und erhalten einen gebotene Vertragsdauer
+    von 2.
+4.  Es werden alle Verhandlungen ausgewürfelt.
+5.  Es darf mit jedem Spieler nur einmal verhandelt werden.
+6.  Spieler, die am Ende der Phase eine Vertragslaufzeit von 0 haben,
     landen im Anschluss in der nächsten Phase.
+7.  Spieler, deren Probe nicht erfolgreich ist aber eine
+    Vertragslaufzeit von 1 haben, behalten diesen Vertrag.
 
-13. Spiler, deren Probe nicht erfolgreich ist aber eine Vertragslaufzeit
-    von 1 haben, behalten diesen Vertrag.
+> ***NOTE:*** Ideen: Bonus bei:
 
-> ***NOTE:*** Ideen: Bonus bei: - kritischem erfolg (zB wenn man eine 1,
-> 2 oder 3 würfelt, bekommt man 3, 2 oder einen Punkt zum Ausgleichen
-> eines Fehlschlages - wenn mehrere Spieler einer gleichen
-> Positionsgruppe Verlängern +2 Bonus auf nachfolgende Spieler der
-> gleichen Positionsgruppe und +1 wenn gleiche Unit (Offense oder
-> Defense)
+-   kritischem erfolg (zB wenn man eine 1, 2 oder 3 würfelt, bekommt man
+    3, 2 oder einen Punkt zum Ausgleichen eines Fehlschlages
+-   wenn mehrere Spieler einer gleichen Positionsgruppe Verlängern +2
+    Bonus auf nachfolgende Spieler der gleichen Positionsgruppe und +1
+    wenn gleiche Unit (Offense oder Defense)
 
 ### Phase 3: Exclusive Franchise Tag
 
@@ -614,7 +608,8 @@ Fantasy Football (NFL) Ligen.
     haben.
 
 3.  Der Prestige-Wert eines Owners in dieser Phase entspricht dem
-    letzten Prestige-Wert aus Phase 2 (RFA).
+    Prestige-Wert aus Phase 2 (RFA) minus der Anzahl der erfolgreichen
+    Proben.
 
 4.  Die Gebote werden nach Vertragsdauer absteigend priorisiert.
 
