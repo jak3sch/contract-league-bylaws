@@ -16,3 +16,6 @@
 11. Trade Deadline: TNF Woche 12.
 12. Saisonabschluss: nach Woche 17 der NFL
 13. Alle nicht gesetzten Daten werden bis zum Saisonstart innerhalb der Liga abgestimmt um langfristig planen zu können.
+
+
+> **_NOTE:_** Alle Zeitangaben im League Calendar sind in der EST Zeitzone angegeben. Das sind i.d.R. 6h Zeitverschiebung zu uns, was bedeutet, dass 2pm 20Uhr und 4pm 0Uhr des Folgetages sind.
