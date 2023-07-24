@@ -5,7 +5,7 @@
    1. Das Kontingent kann ein Jahr im Voraus angepasst werden, sollte es nicht optimal gewählt sein.
 
 2. Es zählen nur verbleibende Jahre eines Vertrages gegen das Kontingent (Bsp.: ein Spieler in Jahr 4 seines 5 Jahres Vertrages zählt nur 2 Jahre gegen das Kontingent).
-3. Alle Spieler, die mindestens einmal einen Vertrag im Active Roster bekommen haben und im Besitz des Owners sind, zählen gegen das Kontingent.
+3. Während der NFL Saison zählen alle Spieler, die mindestens einmal einen Vertrag im Active Roster bekommen haben und im Besitz des Owners sind, gegen das Kontingent.
 4. Sämtliche Vertragsanpassungen finden über das [CFL Tool (cl.bohndesverband)](https://cl.bohndesverband.de/) statt.
 5. Jedes Team hat zudem ein Thread im MFL Message Board, wo sämtliche Aktionen dokumentiert werden.
 6. In den MFL Rosterübersichten findet sich sowohl die Information zur Vertragslänge der Spieler, als auch der aktuelle Vertragstyp (siehe Tabelle).
