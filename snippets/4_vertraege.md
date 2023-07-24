@@ -28,7 +28,7 @@
 7. Free Agents unter Vertrag nehmen
 
    1. Alle aufgenommenen Spieler erhalten, sofern nicht anders in den Bylaws beschrieben, automatisch einen Vertrag über 1 Jahr.
-   2. Der aufnehmende Owner hat die Möglichkeit, diese Vertragslaufzeit, gemäß der Restriktionen, bis Ablauf des übernächsten Tages über das Liga Tool anzupassen.
+   2. Der aufnehmende Owner hat die Möglichkeit, diese Vertragslaufzeit, gemäß der Restriktionen, bis Ablauf des übernächsten Tages über das CFL Tool anzupassen.
 
 8. Spieler entlassen
 
@@ -40,5 +40,7 @@
 
    1. Wird ein Spieler getradet, muss der neue Owner den Vertrag des Spielers übernehmen. In der nächsten Offseason kann dieser neu verhandelt werden.
    2. Der abgebende Owner erhält umgehend die Vertragsjahre des Spielers zurück in sein Kontingent.
+
+10. Die Transaktionen werden automatisch verarbeitet um den gewollten Prozess zu erreichen. Die Zeitpunkte dafür sind täglich 8 Uhr und 13 Uhr sowie stündlich zwischen 18 und 24 Uhr. Erst wenn die Transaktion hier verarbeietet wurde, erscheint sie im CFL Tool. Den Status der letzten Verarbeitung seht ihr im CFL Tool im Bereich "Transaktionen".
 
 > **_NOTE:_** FA adden muss noch ins Tool
