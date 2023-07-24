@@ -13,7 +13,7 @@
 
 6. Nach jeder Probe sinkt der Prestige-Wert um 1.
 7. Der Owner legt vor Beginn der Phase eine Liste mit der Reihenfolge der Verhandlungen fest.
-8. Übermittelt ein Owner keine Liste, werden die Spieler automatisch nach Total Points sortiert und erhalten einen gebotene Vertragsdauer von 2.
+8. Übermittelt ein Owner keine Liste, werden nur Spieler mit einer Vertragslaufzeit von 0 automatisch nach Total Points sortiert und erhalten einen gebotene Vertragsdauer von 2.
 9. Es werden alle Verhandlungen ausgewürfelt.
 10. Es darf mit jedem Spieler nur einmal verhandelt werden.
 11. Spieler, die am Ende der Phase eine Vertragslaufzeit von 0 haben, landen im Anschluss in der nächsten Phase.
