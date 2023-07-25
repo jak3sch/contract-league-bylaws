@@ -147,9 +147,9 @@ Fantasy Football (NFL) Ligen.
     Kontingent (Bsp.: ein Spieler in Jahr 4 seines 5 Jahres Vertrages
     zählt nur 2 Jahre gegen das Kontingent).
 
-3.  Alle Spieler, die mindestens einmal einen Vertrag im Active Roster
-    bekommen haben und im Besitz des Owners sind, zählen gegen das
-    Kontingent.
+3.  Während der NFL Saison zählen alle Spieler, die mindestens einmal
+    einen Vertrag im Active Roster bekommen haben und im Besitz des
+    Owners sind, gegen das Kontingent.
 
 4.  Sämtliche Vertragsanpassungen finden über das [CFL Tool
     (cl.bohndesverband)](https://cl.bohndesverband.de/) statt.
@@ -238,15 +238,16 @@ Fantasy Football (NFL) Ligen.
     1.  Alle aufgenommenen Spieler erhalten, sofern nicht anders in den
         Bylaws beschrieben, automatisch einen Vertrag über 1 Jahr.
     2.  Der aufnehmende Owner hat die Möglichkeit, diese
-        Vertragslaufzeit, gemäß der Restriktionen, innerhalb von 48
-        Stunden über das CFL Tool anzupassen.
+        Vertragslaufzeit, gemäß der Restriktionen, bis Ablauf des
+        übernächsten Tages über das CFL Tool anzupassen.
 
 8.  Spieler entlassen
 
     1.  Owner können jederzeit Spieler entlassen.
     2.  Die Verträge gehen sofort in das Kontingent des Owners über.
         Ausnahme: Wird ein Spieler von dem Team aufgenommen, von dem es
-        als letztes entlassen wurde, gilt weiterhin der alte Vertrag.
+        als letztes entlassen wurde, gelten weiterhin der alte Vertrag
+        und Status.
 
 9.  Trades
 
@@ -256,7 +257,14 @@ Fantasy Football (NFL) Ligen.
     2.  Der abgebende Owner erhält umgehend die Vertragsjahre des
         Spielers zurück in sein Kontingent.
 
-> ***NOTE:*** FA adden und Trades müssen noch ins Tool
+10. Die Transaktionen werden automatisch verarbeitet um den gewollten
+    Prozess zu erreichen. Die Zeitpunkte dafür sind täglich 8 Uhr und 13
+    Uhr sowie stündlich zwischen 18 und 24 Uhr. Erst wenn die
+    Transaktion hier verarbeietet wurde, erscheint sie im CFL Tool. Den
+    Status der letzten Verarbeitung seht ihr im CFL Tool im Bereich
+    “Transaktionen”.
+
+> ***NOTE:*** FA adden muss noch ins Tool
 
 ## §5 Roster
 
@@ -338,7 +346,8 @@ Fantasy Football (NFL) Ligen.
     2.  Spieler auf dem Taxisquad zählen nicht gegen das Vertrags
         Kontingent.
     3.  Die Spieler erhalten bei Promotion in das aktive Roster einen
-        Vertrag über 1 Jahr.
+        Vertrag über 1 Jahr und behalten diesen auch, wenn sie wieder
+        ins Taxi Squad zurück kommen.
 
 ## §6 Free Agents/Waiver Wire
 
@@ -541,9 +550,9 @@ Fantasy Football (NFL) Ligen.
 1.  Nach jeder Probe sinkt der Prestige-Wert um 1.
 2.  Der Owner legt vor Beginn der Phase eine Liste mit der Reihenfolge
     der Verhandlungen fest.
-3.  Übermittelt ein Owner keine Liste, werden die Spieler automatisch
-    nach Total Points sortiert und erhalten einen gebotene Vertragsdauer
-    von 2.
+3.  Übermittelt ein Owner keine Liste, werden nur Spieler mit einer
+    Vertragslaufzeit von 0 automatisch nach Total Points sortiert und
+    erhalten einen gebotene Vertragsdauer von 2.
 4.  Es werden alle Verhandlungen ausgewürfelt.
 5.  Es darf mit jedem Spieler nur einmal verhandelt werden.
 6.  Spieler, die am Ende der Phase eine Vertragslaufzeit von 0 haben,
@@ -594,9 +603,9 @@ Fantasy Football (NFL) Ligen.
 > “What Type Of Add/Drop System Does Your League Use?” = “Always Via
 > Blind Bid Requests” “Do You Want To Process Waiver Requests
 > Automatically?” = “No, the commissioner will process them manually”
-> Vor Beginn der Phase erhalten die Teams [blindBidAuction
-> Budget](https://www45.myfantasyleague.com/2023/csetup?L=54277&C=BBIDWAIV)
-> in Höhe ihres Basiswerts. [Waiver
+> [Setze BB Waiver Budget auf
+> 5](https://www45.myfantasyleague.com/2023/csetup?L=54277&C=BBIDWAIV).
+> Min und Steps jeweils auf 1. [Waiver
 > Order](https://www45.myfantasyleague.com/2023/csetup?L=54277&C=WAIVORD)
 > muss umgekehrte Standingsorder haben. Daraus wird das standing der
 > vorsaison ermittelt
@@ -604,14 +613,22 @@ Fantasy Football (NFL) Ligen.
 1.  Alle Owner können für maximal 3 UFA anonym ein Angebot in Form von
     Vertragsjahren abgeben.
 
+    1.  Zur Übermittlung sollte das CFL Tool genutzt werden. Es ist aber
+        auch möglich, Gebote über das Adds/Drops Menü bei MFL anzulegen.
+        Der gebotene Betrag entspricht dabei immer den gebotenen
+        Vertragsjahren. Auch Gebote, die über das CFL Tool erstellt
+        wurden, können hier angepasst werden.
+
 2.  Der UFA darf nicht mit dem gleichen Team in Phase 2 verhandelt
     haben.
 
 3.  Der Prestige-Wert eines Owners in dieser Phase entspricht dem
     Prestige-Wert aus Phase 2 (RFA) minus der Anzahl der erfolgreichen
-    Proben.
+    Proben in Phase 2.
 
-4.  Die Gebote werden nach Vertragsdauer absteigend priorisiert.
+4.  Die Gebote werden nach Vertragsdauer absteigend priorisiert (hat
+    keinen Einfluss auf die Proben, ist im System aber nicht anders
+    möglich).
 
 5.  Nach jeder Probe sinkt der Prestige-Wert um 1.
 
