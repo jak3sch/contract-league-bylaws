@@ -3,13 +3,16 @@
 > **_COMISH NOTE:_** > [Blind Bid Auction aktivieren](https://www45.myfantasyleague.com/2023/csetup?L=54277&C=ADDDROP)
 > "What Type Of Add/Drop System Does Your League Use?" = "Always Via Blind Bid Requests"
 > "Do You Want To Process Waiver Requests Automatically?" = "No, the commissioner will process them manually"
-> Vor Beginn der Phase erhalten die Teams [blindBidAuction Budget](https://www45.myfantasyleague.com/2023/csetup?L=54277&C=BBIDWAIV) in Höhe ihres Basiswerts.
+> [Setze BB Waiver Budget auf 5](https://www45.myfantasyleague.com/2023/csetup?L=54277&C=BBIDWAIV). Min und Steps jeweils auf 1.
 > [Waiver Order](https://www45.myfantasyleague.com/2023/csetup?L=54277&C=WAIVORD) muss umgekehrte Standingsorder haben. Daraus wird das standing der vorsaison ermittelt
 
 1. Alle Owner können für maximal 3 UFA anonym ein Angebot in Form von Vertragsjahren abgeben.
+
+   1. Zur Übermittlung sollte das CFL Tool genutzt werden. Es ist aber auch möglich, Gebote über das Adds/Drops Menü bei MFL anzulegen. Der gebotene Betrag entspricht dabei immer den gebotenen Vertragsjahren. Auch Gebote, die über das CFL Tool erstellt wurden, können hier angepasst werden.
+
 2. Der UFA darf nicht mit dem gleichen Team in Phase 2 verhandelt haben.
-3. Der Prestige-Wert eines Owners in dieser Phase entspricht dem Prestige-Wert aus Phase 2 (RFA) minus der Anzahl der erfolgreichen Proben.
-4. Die Gebote werden nach Vertragsdauer absteigend priorisiert.
+3. Der Prestige-Wert eines Owners in dieser Phase entspricht dem Prestige-Wert aus Phase 2 (RFA) minus der Anzahl der erfolgreichen Proben in Phase 2.
+4. Die Gebote werden nach Vertragsdauer absteigend priorisiert (hat keinen Einfluss auf die Proben, ist im System aber nicht anders möglich).
 5. Nach jeder Probe sinkt der Prestige-Wert um 1.
 6. Der zu erreichende Wert ist immer Prestige-Wert + gebotene Vertragsdauer.
 7. Es werden in jedem Fall alle Proben (Verhandlungen) ausgewürfelt.
