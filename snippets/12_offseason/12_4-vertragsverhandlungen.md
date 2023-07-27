@@ -50,4 +50,6 @@
 
    Tie breaker: Saisonplatzierung (das schlechtere Team bekommt den Spieler)
 
+> **_COMISH NOTE:_** > Nach der Angebotsphase und vor dem Auswürfeln müss das Waiver wieder auf FCFS umgestellt werden.
+
    Idee: sollte ein Owner am Ende dieser Phase einen Basiswert über 10 haben, bekommt er im nächsten Jahr einen Bonus in Phase 1 in Höhe der Differenz zu seinem letzten Basiswert und 10 (vergleichbar mit kompensatory picks bei vielen abgängen).
