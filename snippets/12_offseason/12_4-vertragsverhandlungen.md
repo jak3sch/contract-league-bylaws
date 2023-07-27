@@ -4,7 +4,7 @@
 > "What Type Of Add/Drop System Does Your League Use?" = "Always Via Blind Bid Requests"
 > "Do You Want To Process Waiver Requests Automatically?" = "No, the commissioner will process them manually"
 > [Setze BB Waiver Budget auf 5](https://www45.myfantasyleague.com/2023/csetup?L=54277&C=BBIDWAIV). Min und Steps jeweils auf 1.
-> [Waiver Order](https://www45.myfantasyleague.com/2023/csetup?L=54277&C=WAIVORD) muss umgekehrte Standingsorder haben. Daraus wird das standing der vorsaison ermittelt
+> [Waiver Order](https://www45.myfantasyleague.com/2023/csetup?L=54277&C=WAIVORD) muss Standingsorder haben.
 
 1. Alle Owner können für maximal 3 UFA anonym ein Angebot in Form von Vertragsjahren abgeben.
 
@@ -49,3 +49,5 @@
    | Gesamtwert        | 4 (Spieler signed) | 8        | 6        |
 
    Tie breaker: Saisonplatzierung (das schlechtere Team bekommt den Spieler)
+
+   Idee: sollte ein Owner am Ende dieser Phase einen Basiswert über 10 haben, bekommt er im nächsten Jahr einen Bonus in Phase 1 in Höhe der Differenz zu seinem letzten Basiswert und 10 (vergleichbar mit kompensatory picks bei vielen abgängen).
