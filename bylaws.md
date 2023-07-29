@@ -869,7 +869,8 @@ wende dich bitte an die Commissioner.
 2.  Optimal wäre eine Erweiterung vor der 2. Saison und um zwei Teams
     gleichzeitig.
 
-3.  Die Expansion muss im Vorfeld von Phase 2 der Offseason stattfinden.
+3.  Die Expansion sollte im Vorfeld von Phase 2 der Offseason
+    stattfinden. Spätestens vor dem Rookiedraft.
 
 4.  Für die Erweiterung wird ein Expansion Draft mit den beiden neuen
     Teams durchgeführt.

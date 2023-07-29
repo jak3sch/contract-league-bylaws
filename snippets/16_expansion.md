@@ -2,7 +2,7 @@
 
 1. Innerhalb der ersten 5 Jahre kann die Liga auf 12 Teams erweitert werden. Sollte die Liga nach 5 Jahren erweitert werden, muss das folgende Konzept nocheinmal geprüft werden.
 2. Optimal wäre eine Erweiterung vor der 2. Saison und um zwei Teams gleichzeitig.
-3. Die Expansion muss im Vorfeld von Phase 2 der Offseason stattfinden.
+3. Die Expansion sollte im Vorfeld von Phase 2 der Offseason stattfinden. Spätestens vor dem Rookiedraft.
 4. Für die Erweiterung wird ein Expansion Draft mit den beiden neuen Teams durchgeführt.
 
     1. Jeder der vorhandenen Owner kann ein Starting Lineup an Spielern locken (ausgenommen Flex Spieler).
