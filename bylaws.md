@@ -155,7 +155,9 @@ Fantasy Football (NFL) Ligen.
     (cl.bohndesverband)](https://cl.bohndesverband.de/) statt.
 
 5.  Jedes Team hat zudem ein Thread im MFL Message Board, wo sämtliche
-    Aktionen dokumentiert werden.
+    Aktionen dokumentiert werden. Owner editieren dieses nicht
+    selbständig, es sei denn, sie werden vom Commissioner dazu
+    aufgefordert.
 
 6.  In den MFL Rosterübersichten findet sich sowohl die Information zur
     Vertragslänge der Spieler, als auch der aktuelle Vertragstyp (siehe
@@ -235,8 +237,13 @@ Fantasy Football (NFL) Ligen.
 
 7.  Free Agents unter Vertrag nehmen
 
-    1.  Alle aufgenommenen Spieler erhalten, sofern nicht anders in den
-        Bylaws beschrieben, automatisch einen Vertrag über 1 Jahr.
+    1.  Alle aufgenommenen Spieler erhalten automatisch einen Vertrag
+        über 1 Jahr.
+
+        1.  Ausnahme: Wird ein Spieler von dem Team aufgenommen, von dem
+            es als letztes entlassen wurde, gelten weiterhin die alten
+            Vertragsdetails.
+
     2.  Der aufnehmende Owner hat die Möglichkeit, diese
         Vertragslaufzeit, gemäß der Restriktionen, bis Ablauf des
         übernächsten Tages über das CFL Tool anzupassen.
@@ -245,9 +252,6 @@ Fantasy Football (NFL) Ligen.
 
     1.  Owner können jederzeit Spieler entlassen.
     2.  Die Verträge gehen sofort in das Kontingent des Owners über.
-        Ausnahme: Wird ein Spieler von dem Team aufgenommen, von dem es
-        als letztes entlassen wurde, gelten weiterhin der alte Vertrag
-        und Status.
 
 9.  Trades
 
@@ -260,11 +264,17 @@ Fantasy Football (NFL) Ligen.
 10. Die Transaktionen werden automatisch verarbeitet um den gewollten
     Prozess zu erreichen. Die Zeitpunkte dafür sind täglich 8 Uhr und 13
     Uhr sowie stündlich zwischen 18 und 24 Uhr. Erst wenn die
-    Transaktion hier verarbeietet wurde, erscheint sie im CFL Tool. Den
+    Transaktion hier verarbeitet wurde, erscheint sie im CFL Tool. Den
     Status der letzten Verarbeitung seht ihr im CFL Tool im Bereich
-    “Transaktionen”.
+    “Transaktionen” neben der Überschrift “Deine berechtigten Spieler”.
 
-> ***NOTE:*** FA adden muss noch ins Tool
+    Der Status kann folgende Werte haben
+
+    -   **write**: es gab neue Transaktionen, die zu MFL importiert
+        wurden
+    -   **fetch**: es gab keine neuen Transaktionen zu verarbeiten
+    -   **fail**: es gab ein Fehler beim Verarbeiten. Bitte gib in der
+        WhatsApp Gruppe bescheid, solltest du diesen Status sehen.
 
 ## §5 Roster
 
@@ -524,7 +534,10 @@ Fantasy Football (NFL) Ligen.
 
 ### Phase 2: Vertragsverlängerungen
 
-1.  Alle verfügbaren 5th Year Options können gezogen werden.
+1.  Alle verfügbaren 5th Year Options können gezogen werden. Entscheidet
+    sich der Owner gegen die Option, kann er dem Spieler einen
+    längerfristigen Vertrag anbieten. Sollte diese Probe dann aber
+    scheitern, wird der Spieler Free Agent.
 
 2.  Jeder Owner darf mit seinen Spielern, deren Vertragslaufzeit 0 oder
     1 beträgt oder die während der letzten Saison per Trade ins Team
@@ -607,8 +620,7 @@ Fantasy Football (NFL) Ligen.
 > 5](https://www45.myfantasyleague.com/2023/csetup?L=54277&C=BBIDWAIV).
 > Min und Steps jeweils auf 1. [Waiver
 > Order](https://www45.myfantasyleague.com/2023/csetup?L=54277&C=WAIVORD)
-> muss umgekehrte Standingsorder haben. Daraus wird das standing der
-> vorsaison ermittelt
+> muss Standingsorder haben.
 
 1.  Alle Owner können für maximal 3 UFA anonym ein Angebot in Form von
     Vertragsjahren abgeben.
@@ -714,6 +726,14 @@ Fantasy Football (NFL) Ligen.
 
     Tie breaker: Saisonplatzierung (das schlechtere Team bekommt den
     Spieler)
+
+> ***COMISH NOTE:*** &gt; Nach der Angebotsphase und vor dem Auswürfeln
+> müss das Waiver wieder auf FCFS umgestellt werden.
+
+Idee: sollte ein Owner am Ende dieser Phase einen Basiswert über 10
+haben, bekommt er im nächsten Jahr einen Bonus in Phase 1 in Höhe der
+Differenz zu seinem letzten Basiswert und 10 (vergleichbar mit
+kompensatory picks bei vielen abgängen).
 
 ## §13 Rookie & Free-Agent Draft
 
@@ -839,3 +859,47 @@ Fantasy Football (NFL) Ligen.
 Sollten dir zu den genannten Punkten unregelmäßigkeiten in der Liga
 auffallen (z.B. weil dein Gegner inaktive Spieler aufgestellt hat),
 wende dich bitte an die Commissioner.
+
+## §16 Liga Erweiterung auf 12 Teams
+
+1.  Innerhalb der ersten 5 Jahre kann die Liga auf 12 Teams erweitert
+    werden. Sollte die Liga nach 5 Jahren erweitert werden, muss das
+    folgende Konzept nocheinmal geprüft werden.
+
+2.  Optimal wäre eine Erweiterung vor der 2. Saison und um zwei Teams
+    gleichzeitig.
+
+3.  Die Expansion muss im Vorfeld von Phase 2 der Offseason stattfinden.
+
+4.  Für die Erweiterung wird ein Expansion Draft mit den beiden neuen
+    Teams durchgeführt.
+
+    1.  Jeder der vorhandenen Owner kann ein Starting Lineup an Spielern
+        locken (ausgenommen Flex Spieler).
+    2.  Die neuen Teams können sich aus den nicht gelockten Spielern ein
+        Starting Lineup draften (ausgenommen Flex Spieler).
+    3.  Die Reihenfolge für den Draft wird zufällig ermittelt.
+    4.  Es ist ein Snake Draft.
+    5.  Aus einem vorhandenen Team dürfen maximal 2 Spieler mehr als aus
+        den übrigen Teams gedraftet werden. (Wenn aus Team A bereits 2
+        Spieler gewählt wurden, muss aus allen übrigen Teams erst
+        mindestens 1 Spieler ausgewählt werden, damit aus Team A ein
+        dritter Spieler gewählt werden kann).
+    6.  Für jeden Spieler mehr, den ein Team mehr abgegeben hat als der
+        Minimalwert aller Teams, erhält es einen weiteren Pick am Ende
+        des Drafts. (Bsp.: Team A hat mit 4 die wenigsten Spieler
+        abgeben müssen, Team B aber 6 und Team C und D 5. Dann erhält
+        Team B 2 und Team C und D je einen zusätzlichen Pick)
+    7.  Alle Teams durchlaufen danach die Offseason. Die neuen Teams
+        verhandeln in Phase 2 allerdings nicht, sondern vergeben ihren
+        Spielern einfach neue Verträge, wie sie das möchten.
+    8.  Sollten die neuen Teams schon vor Phase 1 einsteigen, können Sie
+        auch Gebote für die RFAs abgeben.
+    9.  In Pahse 4 erhalten die neuen Teams als Basiswert den
+        Durchschnitt des derzeitigen Basiswerts aller Ligateams.
+    10. Im Rookie und Free Agent Draft erhalten die beiden neuen Teams
+        automatisch Pick 1 und 2, allerdings in umgekehrter Reihenfolge
+        des Expansion Drafts.
+    11. Nach dem Draft haben die beiden neuen Teams zunächst die Chance,
+        ihre Roster zu füllen, bis sie so viele Spieler im Roster haben,
+        wie der durchschnitt der restlichen Liga.

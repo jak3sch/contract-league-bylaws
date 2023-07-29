@@ -75,4 +75,7 @@ Der [Bohndesverband für Fantasy-Sport](https://bohndesverband.de/) ist ein [Roc
 ```{r, child = "snippets/15_strafen.md"}
 ```
 
+```{r, child = "snippets/16_expansion.md"}
+```
+
 

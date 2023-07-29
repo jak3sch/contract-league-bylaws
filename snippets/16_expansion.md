@@ -15,3 +15,4 @@
     8. Sollten die neuen Teams schon vor Phase 1 einsteigen, können Sie auch Gebote für die RFAs abgeben.
     9. In Pahse 4 erhalten die neuen Teams als Basiswert den Durchschnitt des derzeitigen Basiswerts aller Ligateams.
     10. Im Rookie und Free Agent Draft erhalten die beiden neuen Teams automatisch Pick 1 und 2, allerdings in umgekehrter Reihenfolge des Expansion Drafts.
+    11. Nach dem Draft haben die beiden neuen Teams zunächst die Chance, ihre Roster zu füllen, bis sie so viele Spieler im Roster haben, wie der durchschnitt der restlichen Liga.

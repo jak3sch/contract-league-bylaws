@@ -1,6 +1,6 @@
 ### Phase 2: Vertragsverlängerungen
 
-1. Alle verfügbaren 5th Year Options können gezogen werden.
+1. Alle verfügbaren 5th Year Options können gezogen werden. Entscheidet sich der Owner gegen die Option, kann er dem Spieler einen längerfristigen Vertrag anbieten. Sollte diese Probe dann aber scheitern, wird der Spieler Free Agent.
 2. Jeder Owner darf mit seinen Spielern, deren Vertragslaufzeit 0 oder 1 beträgt oder die während der letzten Saison per Trade ins Team kamen, Vertragsverhandlungen führen.
 3. Der Prestige-Wert eines Owners beträgt zu Beginn der Phase 15.
 4. Der Prestige-Wert kann sich durch Strafen/Errungenschaften verändern und zwischen den Teams unterscheiden.
