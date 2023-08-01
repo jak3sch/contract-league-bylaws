@@ -4,8 +4,8 @@
 2. Die Regular Season endet mit Woche 16 der NFL Saison.
 3. Gespielt wird im Head-to-Head Format (insgesamt 16 Spiele).
 
-   1. Jedes Team spielt zweimal gegen die Teams seiner eigenen Division (10 Spiele)
-   2. Jedes Team spielt einmal gegen die Teams der anderen Division (6 Spiele)
+   1. Jedes Team spielt dreimal gegen die Teams seiner eigenen Division (12 Spiele)
+   2. Jedes Team spielt einmal gegen vier Teams der anderen Division (4 Spiele)
 
 4. Es wird auf das MFL Preset zur Schedule Generierung zurückgegriffen
 
