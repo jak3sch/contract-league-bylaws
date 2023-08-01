@@ -13,10 +13,10 @@
    | 1 PN                 | 1 DB (S/CB)          |
    |                      | 2 LB/CB/S            |
 
-   = 22 Starter + 20 BNCH = 42 aktive Spieler + 2 TS + 6 IR
-   = 48er Roster
+   = 22 Starter + 20 BNCH = 42 aktive Spieler + 2 TS
+   = 44er Roster + 6 IR
 
-   In der Offseason + IR und Anzahl Runden Rookiedraft
+   In der Offseason + IR = 50
 
 2. Positionsgruppen
 
@@ -27,7 +27,7 @@
 
 3. Injured Reserve (IR)
 
-   1. Auf die Injured Reserve dürfen nur Spieler, die von MFL den Status “IR” bekommen oder von der NFL Suspendiert (S) wurden.
+   1. Auf die Injured Reserve dürfen nur Spieler, die von MFL den Status "IR" bekommen, von der NFL Suspendiert (S) wurden oder sich in einem Holdout (H) befindet.
    2. Um zu gewährleisten, dass alle Owner sich an diese Vorgaben halten, ist es nur möglich, ein gültiges Lineup zu übermitteln, wenn keine IR-Verstöße vorliegen.
 
 4. Taxi Squad (TS)
