@@ -119,9 +119,10 @@ Fantasy Football (NFL) Ligen.
         Einfluss auf die Offseason seines Teams und ermittelt anhand von
         Würfelproben, ob Spieler im Team bleiben oder nicht.
 
-2.  Die FCL hat 12 Teams
+2.  Die FCL hat 10 Teams.
 
-    -   Zum Ligastart können auch weniger Teams vorhanden sein.
+    -   Die Liga kann wie unter §16 beschrieben auf 12 Teams aufgestockt
+        werden.
 
 3.  Jeder NFL Spieler kann nur in ein Roster aufgenommen werden
 
@@ -129,12 +130,10 @@ Fantasy Football (NFL) Ligen.
     wird von MFL eingepflegt. Es werden keine Spieler manuell von den
     Commissionern eingetragen.
 
-5.  Die FCL besteht aus 2 Divisions zu je 6 Teams
+5.  Die FCL besteht aus 2 Divisions zu je 5 Teams.
 
-6.  Zum Start der Liga einmal eine Abstimmung ob die Divisions
-    regelmäßig neu ausgelost werden sollen
-
-> ***NOTE:*** Liga Expansion? Regelmäßige Auslosung der Divisions?
+    -   Die Zusammensetzung der Divisions wird alle 3 Jahre neu
+        ausgelost.
 
 ## §4 Verträge
 
@@ -323,10 +322,10 @@ Fantasy Football (NFL) Ligen.
     </tbody>
     </table>
 
-    = 22 Starter + 20 BNCH = 42 aktive Spieler + 2 TS + 6 IR = 48er
-    Roster
+    = 22 Starter + 20 BNCH = 42 aktive Spieler + 2 TS = 44er Roster + 6
+    IR
 
-    In der Offseason + IR und Anzahl Runden Rookiedraft
+    In der Offseason + IR = 50
 
 2.  Positionsgruppen
 
@@ -344,7 +343,8 @@ Fantasy Football (NFL) Ligen.
 3.  Injured Reserve (IR)
 
     1.  Auf die Injured Reserve dürfen nur Spieler, die von MFL den
-        Status “IR” bekommen oder von der NFL Suspendiert (S) wurden.
+        Status “IR” bekommen, von der NFL Suspendiert (S) wurden oder
+        sich in einem Holdout (H) befindet.
     2.  Um zu gewährleisten, dass alle Owner sich an diese Vorgaben
         halten, ist es nur möglich, ein gültiges Lineup zu übermitteln,
         wenn keine IR-Verstöße vorliegen.
@@ -354,7 +354,8 @@ Fantasy Football (NFL) Ligen.
     1.  Auf das Taxi Squad dürfen Spieler in ihrem Rookie oder zweiten
         NFL-Jahr aufgenommen werden.
     2.  Spieler auf dem Taxisquad zählen nicht gegen das Vertrags
-        Kontingent.
+        Kontingent. Es sei denn, sie wurden während der Saison in das
+        Active Roster promoted.
     3.  Die Spieler erhalten bei Promotion in das aktive Roster einen
         Vertrag über 1 Jahr und behalten diesen auch, wenn sie wieder
         ins Taxi Squad zurück kommen.
@@ -368,7 +369,7 @@ Fantasy Football (NFL) Ligen.
     im Anschluss der FA Markt geöffnet.
 4.  Die Reihenfolge des Waiver Wires ergibt sich die ersten drei Wochen
     der Regular Season nach der Draftorder der letzten Saison. Ab der
-    vierten Woche gelten die standi.
+    vierten Woche gelten die standing Tiebreaker.
 
 ## §7 Trades
 
@@ -431,10 +432,10 @@ Fantasy Football (NFL) Ligen.
 
 3.  Gespielt wird im Head-to-Head Format (insgesamt 16 Spiele).
 
-    1.  Jedes Team spielt zweimal gegen die Teams seiner eigenen
-        Division (10 Spiele)
-    2.  Jedes Team spielt einmal gegen die Teams der anderen Division (6
-        Spiele)
+    1.  Jedes Team spielt dreimal gegen die Teams seiner eigenen
+        Division (12 Spiele)
+    2.  Jedes Team spielt einmal gegen vier Teams der anderen Division
+        (4 Spiele)
 
 4.  Es wird auf das MFL Preset zur Schedule Generierung zurückgegriffen
 
@@ -451,7 +452,7 @@ Fantasy Football (NFL) Ligen.
 1.  Pro Woche gibt es bis zu 2 Victory Points.
 
     1.  1 Punkt für ein gewonnenes Matchup
-    2.  1 Punkt für eine Top-6 Platzierung am Spieltag nach Total Points
+    2.  1 Punkt für eine Top-5 Platzierung am Spieltag nach Total Points
 
 2.  Standing Tiebreaker
 
