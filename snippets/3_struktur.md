@@ -21,12 +21,9 @@
     5. Rollenspiel
         Das Rollenspielelement in der Offseason soll weitere Spieltiefe und Realismus schaffen. So hat man als Owner direkten Einfluss auf die Offseason seines Teams und ermittelt anhand von Würfelproben, ob Spieler im Team bleiben oder nicht.
     
-2. Die FCL hat 10 Teams.
-
-    * Die Liga kann wie unter §16 beschrieben auf 12 Teams aufgestockt werden.
-    
+2. Die FCL hat 12 Teams.
 3. Jeder NFL Spieler kann nur in ein Roster aufgenommen werden
 4. Der “player pool” basiert auf den Datensätzen von FantasySharks und wird von MFL eingepflegt. Es werden keine Spieler manuell von den Commissionern eingetragen.
-5. Die FCL besteht aus 2 Divisions zu je 5 Teams.
+5. Die FCL besteht aus 2 Divisions zu je 6 Teams.
 
     * Die Zusammensetzung der Divisions wird alle 3 Jahre neu ausgelost.

@@ -19,7 +19,7 @@
 6. Priorität hat ein Live Draft. Sollte es bei der Terminabstimmung zu keinem Ergebnis kommen, kann auch ein Slow Draft stattfinden.
 7. Im Draft können neben Rookies auch Free Agents gepickt werden.
 8. Während des Drafts ist der FA-Markt geschlossen. Er öffnet erst wieder nach dem ersten Waiver Wire in der Regular Season.
-9. Sollte ein Owner nicht am Draft teilnehmen können hat er sich im Vorfeld bei einem Commissioner zu melden.
+9. Sollte ein Owner nicht am Draft teilnehmen können, hat er sich im Vorfeld bei einem Commissioner zu melden.
 10. Nach Ende des Drafts hat jeder Owner bis zu den Roster Cuts Zeit, Verträge für die gedrafteten Spieler zu übermitteln.
 11. Gepickte Spieler müssen nicht unter Vertrag genommen werden. Bekommen sie keinen, werden sie zu Free Agents.
 

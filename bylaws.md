@@ -62,10 +62,9 @@ Fantasy Football (NFL) Ligen.
 
     1.  Der Ligabeitrag wird zum Start des neuen Liga-Jahres fällig (NFL
         Draft). Bitte versuche selbständig an die Bezahlung deines
-        Beitrags zu denken, auch wenn die Commissioner dich per Mail
-        erinnern werden.
-    2.  Die Bankverbindung wird ebenfalls per Mail an dich versendet.
-        Solltest Du deinen Ligabeitrag nicht bezahlen können, melde dich
+        Beitrags zu denken, auch wenn die Commissioner dich erinnern
+        werden.
+    2.  Solltest Du deinen Ligabeitrag nicht bezahlen können, melde dich
         bei einem Commissioner. Es wird dann nach einer Lösung gesucht.
 
 ## §3 Liga Struktur
@@ -119,10 +118,7 @@ Fantasy Football (NFL) Ligen.
         Einfluss auf die Offseason seines Teams und ermittelt anhand von
         Würfelproben, ob Spieler im Team bleiben oder nicht.
 
-2.  Die FCL hat 10 Teams.
-
-    -   Die Liga kann wie unter §16 beschrieben auf 12 Teams aufgestockt
-        werden.
+2.  Die FCL hat 12 Teams.
 
 3.  Jeder NFL Spieler kann nur in ein Roster aufgenommen werden
 
@@ -130,7 +126,7 @@ Fantasy Football (NFL) Ligen.
     wird von MFL eingepflegt. Es werden keine Spieler manuell von den
     Commissionern eingetragen.
 
-5.  Die FCL besteht aus 2 Divisions zu je 5 Teams.
+5.  Die FCL besteht aus 2 Divisions zu je 6 Teams.
 
     -   Die Zusammensetzung der Divisions wird alle 3 Jahre neu
         ausgelost.
@@ -432,10 +428,10 @@ Fantasy Football (NFL) Ligen.
 
 3.  Gespielt wird im Head-to-Head Format (insgesamt 16 Spiele).
 
-    1.  Jedes Team spielt dreimal gegen die Teams seiner eigenen
-        Division (12 Spiele)
-    2.  Jedes Team spielt einmal gegen vier Teams der anderen Division
-        (4 Spiele)
+    1.  Jedes Team spielt zweimal gegen die Teams seiner eigenen
+        Division (10 Spiele)
+    2.  Jedes Team spielt einmal gegen sechs Teams der anderen Division
+        (6 Spiele)
 
 4.  Es wird auf das MFL Preset zur Schedule Generierung zurückgegriffen
 
@@ -492,6 +488,7 @@ Fantasy Football (NFL) Ligen.
     1.  1st Round RFA Tag (FRFA)
     2.  2nd Round RFA Tag (SRFA)
     3.  Original Round RFA Tag (ORFA)
+        <!-- ORFA nur für Spieler im Rookie Vertrag / 5th Y Option -->
 
 5.  Alle Owner haben die Möglichkeit, den geforderten Pick für den
     Spieler zu bieten. Der gebotene Pick
@@ -553,9 +550,9 @@ Fantasy Football (NFL) Ligen.
     Vertragsdauer + Teamzugehörigkeit
 
     1.  Teamzugehörigkeit: aufeinanderfolgende Seasons im Team mit mind.
-        8 Spielen (50%) im Starting Lineup oder mind. 12 Spiele (75%) im
-        Roster (inkl. IR, falls Spieler verletzt war). Eine Saison gibt
-        1 Bonus. Die vergangene Saison zählt immer als 0.
+        16 Spielen (50%) im Starting Lineup oder mind. 22 Spiele (75%)
+        im Roster (inkl. IR, falls Spieler verletzt war). Eine Saison
+        gibt 1 Bonus. Die vergangene Saison zählt immer als 0.
 
 > ***COMISH NOTE:*** &gt; Teamzugehörigkeit als extra Seite in Ligatool
 > einrichten Auch für Admin nach Ende des Ligajahres per Knopdruck alle
@@ -771,7 +768,7 @@ kompensatory picks bei vielen abgängen).
 8.  Während des Drafts ist der FA-Markt geschlossen. Er öffnet erst
     wieder nach dem ersten Waiver Wire in der Regular Season.
 
-9.  Sollte ein Owner nicht am Draft teilnehmen können hat er sich im
+9.  Sollte ein Owner nicht am Draft teilnehmen können, hat er sich im
     Vorfeld bei einem Commissioner zu melden.
 
 10. Nach Ende des Drafts hat jeder Owner bis zu den Roster Cuts Zeit,

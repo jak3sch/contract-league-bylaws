@@ -5,6 +5,5 @@
 3. Hauptkommunikationskanal ist eine WhatsApp Gruppe.
 4. Die Kosten für die Liga betragen jährlich 69,95$ in der early Bird Phase. Dieser Betrag wird zwischen allen Ownern gleichmäßig aufgeteilt.
 
-   1. Der Ligabeitrag wird zum Start des neuen Liga-Jahres fällig (NFL Draft). Bitte versuche selbständig an die Bezahlung deines Beitrags zu denken, auch wenn die Commissioner dich per Mail erinnern werden.
-   2. Die Bankverbindung wird ebenfalls per Mail an dich versendet.
-      Solltest Du deinen Ligabeitrag nicht bezahlen können, melde dich bei einem Commissioner. Es wird dann nach einer Lösung gesucht.
+   1. Der Ligabeitrag wird zum Start des neuen Liga-Jahres fällig (NFL Draft). Bitte versuche selbständig an die Bezahlung deines Beitrags zu denken, auch wenn die Commissioner dich erinnern werden.
+   2. Solltest Du deinen Ligabeitrag nicht bezahlen können, melde dich bei einem Commissioner. Es wird dann nach einer Lösung gesucht.
