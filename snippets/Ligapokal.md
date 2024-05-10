@@ -10,7 +10,7 @@
    2. Die beiden Division Sieger der letzten Saison.
    3. Das Team mit den meisten Total Points der letzten Saison.
 
-   Sollte der Pokalsieger aus der letzten Saison unter einem der Teams aus 2. und 3. sein, rückt jeweils das nächstbeste Team nach (Platz 2 in der Division bzw. das Team mit den zweitmeisten Total Points).
+   Sollten Teams sich in der Liste doppeln, rückt jeweils das nächstbeste Team nach (z.B. Platz 2 in der Division bzw. das Team mit den zweitmeisten Total Points).
 
 6. Die Matchups im Ligapokal finden im Category Head-to-Head Format statt.
 7. Gespielt wird in folgenden Kategorien:
