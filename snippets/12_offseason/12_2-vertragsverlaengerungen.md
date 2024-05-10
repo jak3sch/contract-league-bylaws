@@ -6,7 +6,7 @@
 4. Der Prestige-Wert kann sich durch Strafen/Errungenschaften verändern und zwischen den Teams unterscheiden.
 5. Der zu erreichende Wert ist immer Prestige-Wert + gebotene Vertragsdauer + Teamzugehörigkeit
 
-   1. Teamzugehörigkeit: aufeinanderfolgende Seasons im Team mit mind. 16 Spielen (50%) im Starting Lineup oder mind. 22 Spiele (75%) im Roster (inkl. IR, falls Spieler verletzt war). Eine Saison gibt 1 Bonus. Die vergangene Saison zählt immer als 0.
+   1. Teamzugehörigkeit: aufeinanderfolgende Seasons im Team mit mind. 50% im Starting Lineup oder mind. 75% im Roster (inkl. IR, falls Spieler verletzt war). Eine Saison gibt 1 Bonus. Die vergangene Saison zählt immer als 0.
 
 > **_COMISH NOTE:_** > Teamzugehörigkeit als extra Seite in Ligatool einrichten
 > Auch für Admin nach Ende des Ligajahres per Knopdruck alle Contract Infos der berechtigten Spieler anpassen
