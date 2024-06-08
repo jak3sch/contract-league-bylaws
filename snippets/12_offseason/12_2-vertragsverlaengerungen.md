@@ -6,18 +6,20 @@
 4. Der Prestige-Wert kann sich durch Strafen/Errungenschaften verändern und zwischen den Teams unterscheiden.
 5. Der zu erreichende Wert ist immer Prestige-Wert + gebotene Vertragsdauer + Teamzugehörigkeit
 
-   1. Teamzugehörigkeit: aufeinanderfolgende Seasons im Team mit mind. 50% im Starting Lineup oder mind. 75% im Roster (inkl. IR, falls Spieler verletzt war). Eine Saison gibt 1 Bonus. Die vergangene Saison zählt immer als 0.
+   1. Teamzugehörigkeit: aufeinanderfolgende Seasons im Team mit mind. 50% im Starting Lineup oder mind. 75% im Roster (inkl. IR, falls Spieler verletzt war). Eine Saison gibt 1 Bonus, wobei die vergangene Saison immer als 0 zählt.
 
 > **_COMISH NOTE:_** > Teamzugehörigkeit als extra Seite in Ligatool einrichten
 > Auch für Admin nach Ende des Ligajahres per Knopdruck alle Contract Infos der berechtigten Spieler anpassen
 
 6. Nach jeder Probe sinkt der Prestige-Wert um 1.
 7. Der Owner legt vor Beginn der Phase eine Liste mit der Reihenfolge der Verhandlungen fest.
-8. Übermittelt ein Owner keine Liste, werden nur Spieler mit einer Vertragslaufzeit von 0 automatisch nach Total Points sortiert und erhalten einen gebotene Vertragsdauer von 2.
-9. Es werden alle Verhandlungen ausgewürfelt.
-10. Es darf mit jedem Spieler nur einmal verhandelt werden.
-11. Spieler, die am Ende der Phase eine Vertragslaufzeit von 0 haben, landen im Anschluss in der nächsten Phase.
-12. Spieler, deren Probe nicht erfolgreich ist aber eine Vertragslaufzeit von 1 haben, behalten diesen Vertrag.
+
+    1. Übermittelt ein Owner keine Liste, werden nur Spieler mit einer Vertragslaufzeit von 0 automatisch nach Total Points sortiert und erhalten einen gebotene Vertragsdauer von 2.
+    
+8. Es werden alle Verhandlungen ausgewürfelt.
+9. Es darf mit jedem Spieler nur einmal verhandelt werden.
+10. Spieler, die am Ende der Phase eine Vertragslaufzeit von 0 haben, landen im Anschluss in der nächsten Phase.
+11. Spieler, deren Probe nicht erfolgreich ist aber eine Vertragslaufzeit von 1 haben, behalten diesen Vertrag.
 
 > **_NOTE:_** Ideen:
 > Bonus bei:

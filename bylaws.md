@@ -550,25 +550,31 @@ Fantasy Football (NFL) Ligen.
     Vertragsdauer + Teamzugehörigkeit
 
     1.  Teamzugehörigkeit: aufeinanderfolgende Seasons im Team mit mind.
-        16 Spielen (50%) im Starting Lineup oder mind. 22 Spiele (75%)
-        im Roster (inkl. IR, falls Spieler verletzt war). Eine Saison
-        gibt 1 Bonus. Die vergangene Saison zählt immer als 0.
+        50% im Starting Lineup oder mind. 75% im Roster (inkl. IR, falls
+        Spieler verletzt war). Eine Saison gibt 1 Bonus, wobei die
+        vergangene Saison immer als 0 zählt.
 
 > ***COMISH NOTE:*** &gt; Teamzugehörigkeit als extra Seite in Ligatool
 > einrichten Auch für Admin nach Ende des Ligajahres per Knopdruck alle
 > Contract Infos der berechtigten Spieler anpassen
 
 1.  Nach jeder Probe sinkt der Prestige-Wert um 1.
+
 2.  Der Owner legt vor Beginn der Phase eine Liste mit der Reihenfolge
     der Verhandlungen fest.
-3.  Übermittelt ein Owner keine Liste, werden nur Spieler mit einer
-    Vertragslaufzeit von 0 automatisch nach Total Points sortiert und
-    erhalten einen gebotene Vertragsdauer von 2.
-4.  Es werden alle Verhandlungen ausgewürfelt.
-5.  Es darf mit jedem Spieler nur einmal verhandelt werden.
-6.  Spieler, die am Ende der Phase eine Vertragslaufzeit von 0 haben,
+
+    1.  Übermittelt ein Owner keine Liste, werden nur Spieler mit einer
+        Vertragslaufzeit von 0 automatisch nach Total Points sortiert
+        und erhalten einen gebotene Vertragsdauer von 2.
+
+3.  Es werden alle Verhandlungen ausgewürfelt.
+
+4.  Es darf mit jedem Spieler nur einmal verhandelt werden.
+
+5.  Spieler, die am Ende der Phase eine Vertragslaufzeit von 0 haben,
     landen im Anschluss in der nächsten Phase.
-7.  Spieler, deren Probe nicht erfolgreich ist aber eine
+
+6.  Spieler, deren Probe nicht erfolgreich ist aber eine
     Vertragslaufzeit von 1 haben, behalten diesen Vertrag.
 
 > ***NOTE:*** Ideen: Bonus bei:
@@ -582,20 +588,12 @@ Fantasy Football (NFL) Ligen.
 ### Phase 3: Exclusive Franchise Tag
 
 1.  Jedes Team hat pro Jahr einen Franchise Tag (EFT).
-
 2.  Nicht genutzte EFT verfallen.
-
-3.  Der Franchise Tag kann einem Spieler gegeben werden, der
-
-    1.  entweder in der vorherigen Phase nicht verlängert hat
-    2.  oder mit dem in der vorherigen Phase keine Verhandlung geführt
-        wurde
-
+3.  Der Franchise Tag kann einem Spieler gegeben werden, der eine
+    Vertragslaufzeit von 0 Jahren hat.
 4.  Ein Spieler darf maximal zweimal in Folge vom gleichen Team mit dem
     Franchisetag belegt werden.
-
 5.  Der Franchise Tag gilt als Vertrag für ein Jahr.
-
 6.  Mit Ende dieser Phase landen alle verbleibenden Spieler mit einer
     Vertragslaufzeit von 0 auf einem gesperrten Free Agent Markt (UFA).
 
@@ -605,7 +603,7 @@ Fantasy Football (NFL) Ligen.
 > in Höhe ihrer verfügbaren Contracts. “Amount Each Owner Can Spend
 > During The Season On Blind Bid Waivers” = 1 “Blind Bids Must Be In
 > Increments Of” = 1 “Adjust Individual Franchise Blind Bid Balances?” =
-> ja Alle Einträge Conctract Years - 1 da dies das Basiskontingent ist
+> ja Alle Einträge Conctract Years - 1 da 1 das Basiskontingent ist
 
 ### Phase 4: Vertragsverhandlungen (UFA)
 
@@ -664,16 +662,16 @@ Fantasy Football (NFL) Ligen.
         1.  Jeder Owner darf würfeln. Ob der Spieler zu ihm wechselt
             hängt von folgenden Faktoren ab:
 
-            1.  Würfelergebnis Ist die Probe nicht geschafft, wechselt
+            1.  Würfelergebnis: Ist die Probe nicht geschafft, wechselt
                 der Spieler nicht zu dem Team. Ansonsten gilt: Je
                 niedriger die Zahl, desto eher wechselt der Spieler zum
                 Team
 
-            2.  Platzierung nach der Saison Je schlechter das Team,
+            2.  Platzierung nach der Saison: Je schlechter das Team,
                 desto eher wechselt der Spieler zum Team
 
-            3.  Vertragslänge Je länger der gebotene Vertrag, desto eher
-                wechselt der Spieler zum Team
+            3.  Vertragslänge: Je länger der gebotene Vertrag, desto
+                eher wechselt der Spieler zum Team
 
         2.  In jeder dieser Kategorien wird ein Ranking erstellt und die
             Platzierungen addiert. Der Gesamtwert entscheidet über das

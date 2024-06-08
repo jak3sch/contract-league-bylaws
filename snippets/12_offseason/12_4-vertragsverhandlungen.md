@@ -27,13 +27,13 @@
 
       1. Jeder Owner darf würfeln. Ob der Spieler zu ihm wechselt hängt von folgenden Faktoren ab:
 
-         1. Würfelergebnis
+         1. Würfelergebnis:
             Ist die Probe nicht geschafft, wechselt der Spieler nicht zu dem Team. Ansonsten gilt: Je niedriger die Zahl, desto eher wechselt der Spieler zum Team
 
-         2. Platzierung nach der Saison
+         2. Platzierung nach der Saison:
             Je schlechter das Team, desto eher wechselt der Spieler zum Team
 
-         3. Vertragslänge
+         3. Vertragslänge:
             Je länger der gebotene Vertrag, desto eher wechselt der Spieler zum Team
 
       2. In jeder dieser Kategorien wird ein Ranking erstellt und die Platzierungen addiert. Der Gesamtwert entscheidet über das Signing (der niedrigste Wert gewinnt)
