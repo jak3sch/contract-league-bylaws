@@ -551,7 +551,7 @@ Fantasy Football (NFL) Ligen.
 
     1.  Teamzugehörigkeit: aufeinanderfolgende Seasons im Team mit mind.
         50% im Starting Lineup oder mind. 75% im Roster (inkl. IR, falls
-        Spieler verletzt war). Eine Saison gibt 1 Bonus, wobei die
+        Spieler verletzt war). Eine Saison gibt +1 Bonus, wobei die
         vergangene Saison immer als 0 zählt.
 
 > ***COMISH NOTE:*** &gt; Teamzugehörigkeit als extra Seite in Ligatool
@@ -569,12 +569,16 @@ Fantasy Football (NFL) Ligen.
 
 3.  Es werden alle Verhandlungen ausgewürfelt.
 
-4.  Es darf mit jedem Spieler nur einmal verhandelt werden.
+4.  Die Reihenfolge in der verhandelt wird kann der Owner selbst wählen.
 
-5.  Spieler, die am Ende der Phase eine Vertragslaufzeit von 0 haben,
+5.  Es darf mit jedem Spieler nur einmal verhandelt werden.
+
+6.  Der Owner kann die Phase jederzeit freiwillig beenden.
+
+7.  Spieler, die am Ende der Phase eine Vertragslaufzeit von 0 haben,
     landen im Anschluss in der nächsten Phase.
 
-6.  Spieler, deren Probe nicht erfolgreich ist aber eine
+8.  Spieler, deren Probe nicht erfolgreich ist aber eine
     Vertragslaufzeit von 1 haben, behalten diesen Vertrag.
 
 > ***NOTE:*** Ideen: Bonus bei:
