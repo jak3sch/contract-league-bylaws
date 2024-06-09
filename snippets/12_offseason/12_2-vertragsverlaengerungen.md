@@ -19,12 +19,13 @@
 8. Es werden alle Verhandlungen ausgewürfelt.
 9. Die Reihenfolge in der verhandelt wird kann der Owner selbst wählen.
 10. Es darf mit jedem Spieler nur einmal verhandelt werden.
-11. Der Owner kann die Phase jederzeit freiwillig beenden.
-12. Spieler, die am Ende der Phase eine Vertragslaufzeit von 0 haben, landen im Anschluss in der nächsten Phase.
-13. Spieler, deren Probe nicht erfolgreich ist aber eine Vertragslaufzeit von 1 haben, behalten diesen Vertrag.
+11. Spieler, die am Ende der Phase eine Vertragslaufzeit von 0 haben, landen im Anschluss in der nächsten Phase.
+12. Spieler, deren Probe nicht erfolgreich ist aber eine Vertragslaufzeit von 1 haben, behalten diesen Vertrag.
 
 > **_NOTE:_** Ideen:
 > Bonus bei:
 
 - kritischem erfolg (zB wenn man eine 1, 2 oder 3 würfelt, bekommt man 3, 2 oder einen Punkt zum Ausgleichen eines Fehlschlages
 - wenn mehrere Spieler einer gleichen Positionsgruppe Verlängern +2 Bonus auf nachfolgende Spieler der gleichen Positionsgruppe und +1 wenn gleiche Unit (Offense oder Defense)
+
+- Der Owner kann die Phase jederzeit freiwillig beenden.
