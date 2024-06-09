@@ -646,7 +646,7 @@ Fantasy Football (NFL) Ligen.
 5.  Nach jeder Probe sinkt der Prestige-Wert um 1.
 
 6.  Der zu erreichende Wert ist immer Prestige-Wert + gebotene
-    Vertragsdauer.
+    Vertragsdauer + 5.
 
 7.  Es werden in jedem Fall alle Proben (Verhandlungen) ausgewürfelt.
 
@@ -669,8 +669,8 @@ Fantasy Football (NFL) Ligen.
 
             1.  Würfelergebnis: Ist die Probe nicht geschafft, wechselt
                 der Spieler nicht zu dem Team. Ansonsten gilt: Je
-                niedriger die Zahl, desto eher wechselt der Spieler zum
-                Team
+                niedriger die gewürfelte Zahl, desto eher wechselt der
+                Spieler zum Team
 
             2.  Platzierung nach der Saison: Je schlechter das Team,
                 desto eher wechselt der Spieler zum Team

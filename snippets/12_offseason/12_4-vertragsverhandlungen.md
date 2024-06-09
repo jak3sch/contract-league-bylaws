@@ -14,7 +14,7 @@
 3. Der Prestige-Wert eines Owners in dieser Phase entspricht dem Prestige-Wert aus Phase 2 (RFA) minus der Anzahl der erfolgreichen Proben in Phase 2.
 4. Die Gebote werden nach Vertragsdauer absteigend priorisiert (hat keinen Einfluss auf die Proben, ist im System aber nicht anders möglich).
 5. Nach jeder Probe sinkt der Prestige-Wert um 1.
-6. Der zu erreichende Wert ist immer Prestige-Wert + gebotene Vertragsdauer.
+6. Der zu erreichende Wert ist immer Prestige-Wert + gebotene Vertragsdauer + 5.
 7. Es werden in jedem Fall alle Proben (Verhandlungen) ausgewürfelt.
 8. Folgende Fälle können auftreten:
 
@@ -28,7 +28,7 @@
       1. Jeder Owner darf würfeln. Ob der Spieler zu ihm wechselt hängt von folgenden Faktoren ab:
 
          1. Würfelergebnis:
-            Ist die Probe nicht geschafft, wechselt der Spieler nicht zu dem Team. Ansonsten gilt: Je niedriger die Zahl, desto eher wechselt der Spieler zum Team
+            Ist die Probe nicht geschafft, wechselt der Spieler nicht zu dem Team. Ansonsten gilt: Je niedriger die gewürfelte Zahl, desto eher wechselt der Spieler zum Team
 
          2. Platzierung nach der Saison:
             Je schlechter das Team, desto eher wechselt der Spieler zum Team
