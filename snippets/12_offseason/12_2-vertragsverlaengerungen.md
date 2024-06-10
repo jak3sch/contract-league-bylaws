@@ -15,9 +15,10 @@
 7. Der Owner legt vor Beginn der Phase eine Liste mit der Reihenfolge der Verhandlungen fest.
 
     1. Übermittelt ein Owner keine Liste, werden nur Spieler mit einer Vertragslaufzeit von 0 automatisch nach Total Points sortiert und erhalten einen gebotene Vertragsdauer von 2.
+    2. Möchte ein Owner keine Verhandlungen führen, muss er eine Liste übermitteln, in der alle Spieler einen Vertrag von 0 erhalten.
     
 8. Es werden alle Verhandlungen ausgewürfelt.
-9. Die Reihenfolge in der verhandelt wird kann der Owner selbst wählen.
+9. Die Reihenfolge in der verhandelt wird, kann der Owner selbst wählen.
 10. Es darf mit jedem Spieler nur einmal verhandelt werden.
 11. Spieler, die am Ende der Phase eine Vertragslaufzeit von 0 haben, landen im Anschluss in der nächsten Phase.
 12. Spieler, deren Probe nicht erfolgreich ist aber eine Vertragslaufzeit von 1 haben, behalten diesen Vertrag.

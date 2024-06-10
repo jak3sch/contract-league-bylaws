@@ -566,10 +566,13 @@ Fantasy Football (NFL) Ligen.
     1.  Übermittelt ein Owner keine Liste, werden nur Spieler mit einer
         Vertragslaufzeit von 0 automatisch nach Total Points sortiert
         und erhalten einen gebotene Vertragsdauer von 2.
+    2.  Möchte ein Owner keine Verhandlungen führen, muss er eine Liste
+        übermitteln, in der alle Spieler einen Vertrag von 0 erhalten.
 
 3.  Es werden alle Verhandlungen ausgewürfelt.
 
-4.  Die Reihenfolge in der verhandelt wird kann der Owner selbst wählen.
+4.  Die Reihenfolge in der verhandelt wird, kann der Owner selbst
+    wählen.
 
 5.  Es darf mit jedem Spieler nur einmal verhandelt werden.
 
