@@ -1,7 +1,7 @@
 ## Ligapokal
 
 1. Parallel zum normalen Ligabetrieb findet ein Pokalwettbewerb statt.
-2. Der Sieger des Ligapokals bekommt +1 auf seinen Basiswert in der anschließenden Offseason.
+2. Der Sieger des Ligapokals bekommt +1 auf seinen Prestigewert in der anschließenden Offseason.
 3. Der Ligapokal wird in einem K.O.-System ausgetragen.
 4. Alle Partien im Ligapokal werden ausgelost.
 5. 4 Teams bekommen in der ersten Runde des Ligapokals eine Bye Week.
@@ -23,16 +23,16 @@
    6. Total Turnovers (Interceptions Thrown, Fumbles Lost)
    7. Total Tackles (Solo + Assists)
    8. Tackles for Loss
-   9. Total Turnovers (Forced Fumbles + Interceptions Caught)
-   10. QB Hits
+   9. QB Hits
+   10. Total Turnovers (Forced Fumbles + Interceptions Caught)
    11. Sacks
 
-8. Für jedes Matchup darf ein Spieler pro Positionsgruppe übermittelt werden.
-9. Alle Spieler werden in allen Kategorien berücksichtigt.
-10. Das Team, dessen Spieler in einer Kategorie besser abschneiden, bekommt für diese Kategorie 1 Punkt. Bei Gleichstand in einer Kategorie entscheidet die Anzahl der in die Berechnung einbezogener Spieler (das Team mit weniger Spielern gewinnt die Kategorie).
-11. Das Team mit den meisten Kategorie-Punkten gewinnt das Matchup und zieht in die nächste Runde ein. Bei Gleichstand entscheidet...
-12. Alle Daten für die Berechnung der Kategorien kommen aus dem [R nflreadr Paket](https://nflreadr.nflverse.com/index.html).
-13. Der Ligapokal Spielplan unterteil sich in 4 Spieltage. Dazu wird der NFL Schedule in 4 Phasen eingeteilt:
+9. Für jedes Matchup darf ein Spieler pro Positionsgruppe übermittelt werden.
+10. Alle Spieler werden in allen Kategorien berücksichtigt.
+11. Das Team, dessen Spieler in einer Kategorie besser abschneiden, bekommt für diese Kategorie 1 Punkt. Bei Gleichstand in einer Kategorie entscheidet die Anzahl der in die Berechnung einbezogener Spieler (das Team mit weniger Spielern gewinnt die Kategorie).
+12. Das Team mit den meisten Kategorie-Punkten gewinnt das Matchup und zieht in die nächste Runde ein. Bei Gleichstand entscheiden die gespielten Snaps aller Spieler. (Das Team mit den weniger gespielten Snaps gewinnt das Matchup)
+13. Alle Daten für die Berechnung der Kategorien kommen aus dem [R nflreadr Paket](https://nflreadr.nflverse.com/index.html).
+14. Der Ligapokal Spielplan unterteil sich in 4 Spieltage. Dazu wird der NFL Schedule in 4 Phasen eingeteilt:
 
     1. Phase 1: Weeks 2-5
     2. Phase 2: Weeks 6-9
