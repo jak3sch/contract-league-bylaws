@@ -620,8 +620,8 @@ Fantasy Football (NFL) Ligen.
 > “What Type Of Add/Drop System Does Your League Use?” = “Always Via
 > Blind Bid Requests” “Do You Want To Process Waiver Requests
 > Automatically?” = “No, the commissioner will process them manually”
-> [Setze BB Waiver Budget auf
-> 5](https://www45.myfantasyleague.com/2023/csetup?L=54277&C=BBIDWAIV).
+> [Setze BB Waiver Budget auf verfügbare Anzahl der
+> Vertragsjahre](https://www45.myfantasyleague.com/2023/csetup?L=54277&C=BBIDWAIV).
 > Min und Steps jeweils auf 1. [Waiver
 > Order](https://www45.myfantasyleague.com/2023/csetup?L=54277&C=WAIVORD)
 > muss Standingsorder haben.
@@ -651,7 +651,8 @@ Fantasy Football (NFL) Ligen.
 6.  Der zu erreichende Wert ist immer Prestige-Wert + gebotene
     Vertragsdauer + 5.
 
-7.  Es werden in jedem Fall alle Proben (Verhandlungen) ausgewürfelt.
+7.  Übermittelt ein Owner keine Proben für einen Spieler, zählt diese
+    als nicht bestanden.
 
 8.  Folgende Fälle können auftreten:
 

@@ -3,7 +3,7 @@
 > **_COMISH NOTE:_** > [Blind Bid Auction aktivieren](https://www45.myfantasyleague.com/2023/csetup?L=54277&C=ADDDROP)
 > "What Type Of Add/Drop System Does Your League Use?" = "Always Via Blind Bid Requests"
 > "Do You Want To Process Waiver Requests Automatically?" = "No, the commissioner will process them manually"
-> [Setze BB Waiver Budget auf 5](https://www45.myfantasyleague.com/2023/csetup?L=54277&C=BBIDWAIV). Min und Steps jeweils auf 1.
+> [Setze BB Waiver Budget auf verfügbare Anzahl der Vertragsjahre](https://www45.myfantasyleague.com/2023/csetup?L=54277&C=BBIDWAIV). Min und Steps jeweils auf 1.
 > [Waiver Order](https://www45.myfantasyleague.com/2023/csetup?L=54277&C=WAIVORD) muss Standingsorder haben.
 
 1. Alle Owner können für maximal 3 UFA anonym ein Angebot in Form von Vertragsjahren abgeben.
@@ -15,7 +15,7 @@
 4. Die Gebote werden nach Vertragsdauer absteigend priorisiert (hat keinen Einfluss auf die Proben, ist im System aber nicht anders möglich).
 5. Nach jeder Probe sinkt der Prestige-Wert um 1.
 6. Der zu erreichende Wert ist immer Prestige-Wert + gebotene Vertragsdauer + 5.
-7. Es werden in jedem Fall alle Proben (Verhandlungen) ausgewürfelt.
+7. Übermittelt ein Owner keine Proben für einen Spieler, zählt diese als nicht bestanden.
 8. Folgende Fälle können auftreten:
 
    1. Es besteht kein Interesse an einem Spieler.
