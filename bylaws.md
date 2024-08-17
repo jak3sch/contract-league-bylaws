@@ -732,13 +732,10 @@ Fantasy Football (NFL) Ligen.
     Tie breaker: Saisonplatzierung (das schlechtere Team bekommt den
     Spieler)
 
-> ***COMISH NOTE:*** &gt; Nach der Angebotsphase und vor dem Auswürfeln
-> müss das Waiver wieder auf FCFS umgestellt werden.
-
-Idee: sollte ein Owner am Ende dieser Phase einen Basiswert über 10
-haben, bekommt er im nächsten Jahr einen Bonus in Phase 1 in Höhe der
-Differenz zu seinem letzten Basiswert und 10 (vergleichbar mit
-kompensatory picks bei vielen abgängen).
+> ***COMISH NOTE:*** &gt; Nach der Angebotsphase müssen in den Abilities
+> die Adds/Drops deaktiviert werden, damit die Owner die Angebote bei
+> MFL nicht mehr bearbeiten können. Nach der Angebotsphase und vor dem
+> Auswürfeln müss das Waiver wieder auf FCFS umgestellt werden.
 
 ## §13 Rookie & Free-Agent Draft
 
@@ -865,47 +862,73 @@ Sollten dir zu den genannten Punkten unregelmäßigkeiten in der Liga
 auffallen (z.B. weil dein Gegner inaktive Spieler aufgestellt hat),
 wende dich bitte an die Commissioner.
 
-## §16 Liga Erweiterung auf 12 Teams
+## Ligapokal
 
-1.  Innerhalb der ersten 5 Jahre kann die Liga auf 12 Teams erweitert
-    werden. Sollte die Liga nach 5 Jahren erweitert werden, muss das
-    folgende Konzept nocheinmal geprüft werden.
+1.  Parallel zum normalen Ligabetrieb findet ein Pokalwettbewerb statt.
 
-2.  Optimal wäre eine Erweiterung vor der 2. Saison und um zwei Teams
-    gleichzeitig.
+2.  Der Sieger des Ligapokals bekommt +1 auf seinen Prestigewert in der
+    anschließenden Offseason.
 
-3.  Die Expansion sollte im Vorfeld von Phase 2 der Offseason
-    stattfinden. Spätestens vor dem Rookiedraft.
+3.  Der Ligapokal wird in einem K.O.-System ausgetragen.
 
-4.  Für die Erweiterung wird ein Expansion Draft mit den beiden neuen
-    Teams durchgeführt.
+4.  Alle Partien im Ligapokal werden ausgelost.
 
-    1.  Jeder der vorhandenen Owner kann ein Starting Lineup an Spielern
-        locken (ausgenommen Flex Spieler).
-    2.  Die neuen Teams können sich aus den nicht gelockten Spielern ein
-        Starting Lineup draften (ausgenommen Flex Spieler).
-    3.  Die Reihenfolge für den Draft wird zufällig ermittelt.
-    4.  Es ist ein Snake Draft.
-    5.  Aus einem vorhandenen Team dürfen maximal 2 Spieler mehr als aus
-        den übrigen Teams gedraftet werden. (Wenn aus Team A bereits 2
-        Spieler gewählt wurden, muss aus allen übrigen Teams erst
-        mindestens 1 Spieler ausgewählt werden, damit aus Team A ein
-        dritter Spieler gewählt werden kann).
-    6.  Für jeden Spieler mehr, den ein Team mehr abgegeben hat als der
-        Minimalwert aller Teams, erhält es einen weiteren Pick am Ende
-        des Drafts. (Bsp.: Team A hat mit 4 die wenigsten Spieler
-        abgeben müssen, Team B aber 6 und Team C und D 5. Dann erhält
-        Team B 2 und Team C und D je einen zusätzlichen Pick)
-    7.  Alle Teams durchlaufen danach die Offseason. Die neuen Teams
-        verhandeln in Phase 2 allerdings nicht, sondern vergeben ihren
-        Spielern einfach neue Verträge, wie sie das möchten.
-    8.  Sollten die neuen Teams schon vor Phase 1 einsteigen, können Sie
-        auch Gebote für die RFAs abgeben.
-    9.  In Pahse 4 erhalten die neuen Teams als Basiswert den
-        Durchschnitt des derzeitigen Basiswerts aller Ligateams.
-    10. Im Rookie und Free Agent Draft erhalten die beiden neuen Teams
-        automatisch Pick 1 und 2, allerdings in umgekehrter Reihenfolge
-        des Expansion Drafts.
-    11. Nach dem Draft haben die beiden neuen Teams zunächst die Chance,
-        ihre Roster zu füllen, bis sie so viele Spieler im Roster haben,
-        wie der durchschnitt der restlichen Liga.
+5.  4 Teams bekommen in der ersten Runde des Ligapokals eine Bye Week.
+
+    1.  Der Pokalsieger der letzten Saison.
+    2.  Die beiden Division Sieger der letzten Saison.
+    3.  Das Team mit den meisten Total Points der letzten Saison.
+
+    Sollten Teams sich in der Liste doppeln, rückt jeweils das
+    nächstbeste Team nach (z.B. Platz 2 in der Division bzw. das Team
+    mit den zweitmeisten Total Points).
+
+6.  Die Matchups im Ligapokal finden im Category Head-to-Head Format
+    statt.
+
+7.  Gespielt wird in folgenden Kategorien:
+
+    1.  Passing Yards
+    2.  Rushing Yards
+    3.  Receiving Yards
+    4.  Special Teams Yards (Total Length of Field Goals + Total Punt
+        Yards)
+    5.  Total Touchdowns (Passing, Rushing, Receiving, Defensive)
+    6.  Total Turnovers (Interceptions Thrown, Fumbles Lost)
+    7.  Total Tackles (Solo + Assists)
+    8.  Tackles for Loss
+    9.  QB Hits
+    10. Total Turnovers (Forced Fumbles + Interceptions Caught)
+    11. Sacks
+
+8.  Für jedes Matchup darf ein Spieler pro Positionsgruppe übermittelt
+    werden.
+
+9.  Alle Spieler werden in allen Kategorien berücksichtigt.
+
+10. Das Team, dessen Spieler in einer Kategorie besser abschneiden,
+    bekommt für diese Kategorie 1 Punkt. Bei Gleichstand in einer
+    Kategorie entscheidet die Anzahl der in die Berechnung einbezogener
+    Spieler (das Team mit weniger Spielern gewinnt die Kategorie).
+
+11. Das Team mit den meisten Kategorie-Punkten gewinnt das Matchup und
+    zieht in die nächste Runde ein. Bei Gleichstand entscheiden die
+    gespielten Snaps aller Spieler. (Das Team mit den weniger gespielten
+    Snaps gewinnt das Matchup)
+
+12. Der Ligapokal Spielplan unterteil sich in 4 Spieltage. Dazu wird der
+    NFL Schedule in 4 Phasen eingeteilt:
+
+    1.  Phase 1: Weeks 2-5
+    2.  Phase 2: Weeks 6-9
+    3.  Phase 3: Weeks 10-13
+    4.  Phase 4: Weeks 14-17
+
+    Aus jeder Phase wird vor Saisonstart zufällig eine Woche ausgelost,
+    in der dann die entsprechende Runde des Ligapokals gespielt wird.
+
+13. Alle Daten für die Berechnung der Kategorien kommen aus dem [R
+    nflreadr Paket](https://nflreadr.nflverse.com/index.html).
+
+14. Die Ermittlung der Ergebnisse findet mittels einer github action
+    immer mittwochs 12 Uhr statt.

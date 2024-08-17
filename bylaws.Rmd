@@ -1,7 +1,7 @@
 ---
 title: "Bylaws"
 author: Jakob Eschler
-date: 09.06.24
+date: 18.08.24
 output: md_document
 ---
 
@@ -75,7 +75,7 @@ Der [Bohndesverband für Fantasy-Sport](https://bohndesverband.de/) ist ein [Roc
 ```{r, child = "snippets/15_strafen.md"}
 ```
 
-```{r, child = "snippets/16_expansion.md"}
+```{r, child = "snippets/16_pokal.md"}
 ```
 
 

@@ -31,8 +31,7 @@
 10. Alle Spieler werden in allen Kategorien berücksichtigt.
 11. Das Team, dessen Spieler in einer Kategorie besser abschneiden, bekommt für diese Kategorie 1 Punkt. Bei Gleichstand in einer Kategorie entscheidet die Anzahl der in die Berechnung einbezogener Spieler (das Team mit weniger Spielern gewinnt die Kategorie).
 12. Das Team mit den meisten Kategorie-Punkten gewinnt das Matchup und zieht in die nächste Runde ein. Bei Gleichstand entscheiden die gespielten Snaps aller Spieler. (Das Team mit den weniger gespielten Snaps gewinnt das Matchup)
-13. Alle Daten für die Berechnung der Kategorien kommen aus dem [R nflreadr Paket](https://nflreadr.nflverse.com/index.html).
-14. Der Ligapokal Spielplan unterteil sich in 4 Spieltage. Dazu wird der NFL Schedule in 4 Phasen eingeteilt:
+13. Der Ligapokal Spielplan unterteil sich in 4 Spieltage. Dazu wird der NFL Schedule in 4 Phasen eingeteilt:
 
     1. Phase 1: Weeks 2-5
     2. Phase 2: Weeks 6-9
@@ -40,3 +39,5 @@
     4. Phase 4: Weeks 14-17
 
     Aus jeder Phase wird vor Saisonstart zufällig eine Woche ausgelost, in der dann die entsprechende Runde des Ligapokals gespielt wird.
+14. Alle Daten für die Berechnung der Kategorien kommen aus dem [R nflreadr Paket](https://nflreadr.nflverse.com/index.html).
+15. Die Ermittlung der Ergebnisse findet mittels einer github action immer mittwochs 12 Uhr statt.
