@@ -11,7 +11,7 @@
 3. Der Draft beginnt Anfang/Mitte August.
 4. Der Draft besteht aus 10 Runden.
 
-    1. Haben Teams nach dem Draft kein volles Roster, dürfen sie sich direkt im Anschluss an den Draft per First Comes First Serve das Roster füllen.
+    1. Haben Teams nach dem Draft kein volles Roster, dürfen sie sich direkt im Anschluss an den Draft per First Comes First Serve das Roster füllen. Es gibt keine allgemeine Free Agent Phase zwischen Draft und Season Start.
     
     > **_COMISH NOTE:_**  [Franchise Ability "Drop" deaktivieren](https://www45.myfantasyleague.com/2023/options?L=54277&O=93) und FA Markt öffnen.
     
@@ -21,6 +21,4 @@
 8. Während des Drafts ist der FA-Markt geschlossen. Er öffnet erst wieder nach dem ersten Waiver Wire in der Regular Season.
 9. Sollte ein Owner nicht am Draft teilnehmen können, hat er sich im Vorfeld bei einem Commissioner zu melden.
 10. Nach Ende des Drafts hat jeder Owner bis zu den Roster Cuts Zeit, Verträge für die gedrafteten Spieler zu übermitteln.
-11. Gepickte Spieler müssen nicht unter Vertrag genommen werden. Bekommen sie keinen, werden sie zu Free Agents.
-
-> **_NOTE:_**  Anzahl der Runden nach Offseason Test anpassen.
+11. Gepickte Spieler müssen nicht unter Vertrag genommen werden.

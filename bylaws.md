@@ -756,7 +756,8 @@ Fantasy Football (NFL) Ligen.
 
     1.  Haben Teams nach dem Draft kein volles Roster, dürfen sie sich
         direkt im Anschluss an den Draft per First Comes First Serve das
-        Roster füllen.
+        Roster füllen. Es gibt keine allgemeine Free Agent Phase
+        zwischen Draft und Season Start.
 
     > ***COMISH NOTE:*** [Franchise Ability “Drop”
     > deaktivieren](https://www45.myfantasyleague.com/2023/options?L=54277&O=93)
@@ -779,9 +780,6 @@ Fantasy Football (NFL) Ligen.
     Verträge für die gedrafteten Spieler zu übermitteln.
 
 11. Gepickte Spieler müssen nicht unter Vertrag genommen werden.
-    Bekommen sie keinen, werden sie zu Free Agents.
-
-> ***NOTE:*** Anzahl der Runden nach Offseason Test anpassen.
 
 ## §14 Regeländerungen
 
