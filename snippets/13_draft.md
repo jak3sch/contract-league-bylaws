@@ -13,7 +13,7 @@
 
     1. Haben Teams nach dem Draft kein volles Roster, dürfen sie sich direkt im Anschluss an den Draft per First Comes First Serve das Roster füllen. Es gibt keine allgemeine Free Agent Phase zwischen Draft und Season Start.
     
-    > **_COMISH NOTE:_**  [Franchise Ability "Drop" deaktivieren](https://www45.myfantasyleague.com/2023/options?L=54277&O=93) und FA Markt öffnen.
+    > **_COMMISH NOTE:_**  [Franchise Ability "Drop" deaktivieren](https://www45.myfantasyleague.com/2024/options?L=54277&O=93) und FA Markt öffnen.
     
 5. Es werden alle Runden nach der ermittelten Reihenfolge gedraftet.
 6. Priorität hat ein Live Draft. Sollte es bei der Terminabstimmung zu keinem Ergebnis kommen, kann auch ein Slow Draft stattfinden.
@@ -22,3 +22,6 @@
 9. Sollte ein Owner nicht am Draft teilnehmen können, hat er sich im Vorfeld bei einem Commissioner zu melden.
 10. Nach Ende des Drafts hat jeder Owner bis zu den Roster Cuts Zeit, Verträge für die gedrafteten Spieler zu übermitteln.
 11. Gepickte Spieler müssen nicht unter Vertrag genommen werden.
+12. Sollte ein Owner nach dem Draft kein gültiges Lineup aufstellen können, kann er vom Commissioner so viele Transaktionen vom FA Markt durchführen lassen, wie er benötigt. Dafür werden ihm die gleiche Anzahl an Runden vom Week 1 Waiver Wire entzogen.
+
+    > **_COMMISH Note:_** Wenn das der Fall ist muss das Week 1 Waiver Wire manuell durchgeführt werden. Dazu die Waiver Wire Aktion im Transaction Kalender einfach eine Woche nach hinten schieben und das Waiver Wire [manuell durchführen](https://www45.myfantasyleague.com/2024/options?L=54277&O=47).

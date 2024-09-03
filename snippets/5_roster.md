@@ -34,4 +34,5 @@
 
    1. Auf das Taxi Squad dürfen Spieler in ihrem Rookie oder zweiten NFL-Jahr aufgenommen werden.
    2. Spieler auf dem Taxisquad zählen nicht gegen das Vertrags Kontingent. Es sei denn, sie wurden während der Saison in das Active Roster promoted.
-   3. Die Spieler erhalten bei Promotion in das aktive Roster einen Vertrag über 1 Jahr und behalten diesen auch, wenn sie wieder ins Taxi Squad zurück kommen.
+   3. Spieler, die vor der Deadline der Roster Cuts auf das Taxi Squad gesetzt werden, erhalten automatisch einen Vertrag von 0 Jahren - egal, welchen Vertrag sie vorher hatten.
+   4. Die Spieler erhalten bei Promotion in das aktive Roster einen Vertrag über 1 Jahr und behalten diesen auch, wenn sie wieder ins Taxi Squad zurück kommen.
