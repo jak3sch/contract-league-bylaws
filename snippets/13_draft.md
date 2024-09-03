@@ -22,6 +22,6 @@
 9. Sollte ein Owner nicht am Draft teilnehmen können, hat er sich im Vorfeld bei einem Commissioner zu melden.
 10. Nach Ende des Drafts hat jeder Owner bis zu den Roster Cuts Zeit, Verträge für die gedrafteten Spieler zu übermitteln.
 11. Gepickte Spieler müssen nicht unter Vertrag genommen werden.
-12. Sollte ein Owner nach dem Draft kein gültiges Lineup aufstellen können, kann er vom Commissioner so viele Transaktionen vom FA Markt durchführen lassen, wie er benötigt. Dafür werden ihm die gleiche Anzahl an Runden vom Week 1 Waiver Wire entzogen.
+12. Sollte ein Owner nach dem Draft kein gültiges Lineup aufstellen können, kann er via Waiver Requests so viele Spieler FA Markt holen, wie er benötigt. Dafür werden ihm die gleiche Anzahl an Runden vom Week 1 Waiver Wire entzogen. Die Waiver werden dann manuell vom Commissioner durchgeführt.
 
     > **_COMMISH Note:_** Wenn das der Fall ist muss das Week 1 Waiver Wire manuell durchgeführt werden. Dazu die Waiver Wire Aktion im Transaction Kalender einfach eine Woche nach hinten schieben und das Waiver Wire [manuell durchführen](https://www45.myfantasyleague.com/2024/options?L=54277&O=47).

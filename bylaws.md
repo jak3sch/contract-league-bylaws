@@ -785,9 +785,10 @@ Fantasy Football (NFL) Ligen.
 11. Gepickte Spieler müssen nicht unter Vertrag genommen werden.
 
 12. Sollte ein Owner nach dem Draft kein gültiges Lineup aufstellen
-    können, kann er vom Commissioner so viele Transaktionen vom FA Markt
-    durchführen lassen, wie er benötigt. Dafür werden ihm die gleiche
-    Anzahl an Runden vom Week 1 Waiver Wire entzogen.
+    können, kann er via Waiver Requests so viele Spieler FA Markt holen,
+    wie er benötigt. Dafür werden ihm die gleiche Anzahl an Runden vom
+    Week 1 Waiver Wire entzogen. Die Waiver werden dann manuell vom
+    Commissioner durchgeführt.
 
     > ***COMMISH Note:*** Wenn das der Fall ist muss das Week 1 Waiver
     > Wire manuell durchgeführt werden. Dazu die Waiver Wire Aktion im
