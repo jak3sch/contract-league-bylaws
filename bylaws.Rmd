@@ -78,4 +78,7 @@ Der [Bohndesverband für Fantasy-Sport](https://bohndesverband.de/) ist ein [Roc
 ```{r, child = "snippets/16_pokal.md"}
 ```
 
+```{r, child = "snippets/17_pool-survivor.md"}
+```
+
 

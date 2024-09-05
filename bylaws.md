@@ -441,6 +441,12 @@ Fantasy Football (NFL) Ligen.
 ## §10 Playoffs
 
 1.  Die beiden Division Sieger spielen in Woche 17 um den Ligatitel.
+
+    1.  Beide Division Sieger bekommen in der kommenden Offseason +2
+        Bonus auf ihren Prestige-Wert.
+    2.  Der Sieger des Finals bekommt in der kommenden Offseason
+        zusätzlich +1 Bonus auf seinen Prestige-Wert.
+
 2.  Die restlichen Teams spielen in Woche 17 ebenfalls, allerdings in
     für die Draftorder unrelevanten Platzierungsspielen. Es spielen
     immer die Teams mit der selben Platzierung aus beiden Divisions
@@ -785,16 +791,33 @@ Fantasy Football (NFL) Ligen.
 11. Gepickte Spieler müssen nicht unter Vertrag genommen werden.
 
 12. Sollte ein Owner nach dem Draft kein gültiges Lineup aufstellen
-    können, kann er via Waiver Requests so viele Spieler FA Markt holen,
-    wie er benötigt. Dafür werden ihm die gleiche Anzahl an Runden vom
-    Week 1 Waiver Wire entzogen. Die Waiver werden dann manuell vom
-    Commissioner durchgeführt.
+    können, kann er die nötigen FA Transaktionen machen.
+
+    1.  Der Owner übermittel dem Commissioner eine Liste an Spielern,
+        die er aufnehmen möchte (wenn nötig auch den zu droppenden
+        Spieler).
+    2.  Für jeden dieser Spieler würfelt der Owner mit einem
+        sechseitigen Würfel (online oder analog - auf Vertrauensbasis)
+        einen Wert.
+    3.  Der Owner bekommt den Free Agent, der im [MFL ADP
+        Report](https://www45.myfantasyleague.com/2024/reports?L=54277&R=ADP)
+        seiner Position dem Würfelergebnis entspricht.
+    4.  Gibt es mehrere Owner, die dieses Prozedere durchlaufen, gilt
+        die Waiver Reihenfolge für das Ausführen der Transaktionen. Jede
+        Transaktion ist dabei eine neue Runde.
+    5.  Für jede Transaktion eines Owners verliert er eine Runde vom
+        Week 1 Waiver Wire. Aus technischen Gründen muss dann für Woche
+        1 das Waiver Wire manuell durchgeführt werden. Dies geschieht am
+        Mittwoch nach Woche 1, so bald ein Commissioner Zeit hat. Der FA
+        Markt öffnet dann an diesem Tag 18 Uhr.
 
     > ***COMMISH Note:*** Wenn das der Fall ist muss das Week 1 Waiver
     > Wire manuell durchgeführt werden. Dazu die Waiver Wire Aktion im
     > Transaction Kalender einfach eine Woche nach hinten schieben und
     > das Waiver Wire [manuell
     > durchführen](https://www45.myfantasyleague.com/2024/options?L=54277&O=47).
+    > Außerdem eine Aktion anlegen, dass alle gelockten Spieler um 18
+    > Uhr freigegeben werden.
 
 ## §14 Regeländerungen
 
@@ -945,3 +968,26 @@ wende dich bitte an die Commissioner.
 
 14. Die Ermittlung der Ergebnisse findet mittels einer github action
     immer mittwochs 12 Uhr statt.
+
+## §17 Pool Picks & Survivor Pool
+
+1.  Über MFL können die Owner an [NFL Pool
+    Picks](https://www45.myfantasyleague.com/2024/options?L=54277&O=121)
+    und einem NFL [Survivor
+    Pool](https://www45.myfantasyleague.com/2024/options?L=54277&O=120)
+    teilnehmen.
+2.  Der Gewinn eines der beiden Wettbewerbe gibt in der kommenden
+    Offseason +1 Bonus auf den Prestige-Wert.
+
+### NFL Pool Picks
+
+1.  Getippt werden die Sieger aller Spieler gegen den Spread. Jeder
+    korrekte Tipp gibt einen Punkt.
+
+### NFL Survivor Pool
+
+1.  Jede Woche wird ein Team getippt, das gewinnen wird. Ist der Tipp
+    korrekt, geht es in die nächste Runde. Ist der Tipp falsch, verliert
+    der Owner ein Leben.
+2.  Jeder Owner hat 2 Leben. Sind beide aufgebraucht, scheidet der Owner
+    aus aus dem Wettbewerb aus.
