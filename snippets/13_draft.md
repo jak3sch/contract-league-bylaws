@@ -22,6 +22,12 @@
 9. Sollte ein Owner nicht am Draft teilnehmen können, hat er sich im Vorfeld bei einem Commissioner zu melden.
 10. Nach Ende des Drafts hat jeder Owner bis zu den Roster Cuts Zeit, Verträge für die gedrafteten Spieler zu übermitteln.
 11. Gepickte Spieler müssen nicht unter Vertrag genommen werden.
-12. Sollte ein Owner nach dem Draft kein gültiges Lineup aufstellen können, kann er via Waiver Requests so viele Spieler FA Markt holen, wie er benötigt. Dafür werden ihm die gleiche Anzahl an Runden vom Week 1 Waiver Wire entzogen. Die Waiver werden dann manuell vom Commissioner durchgeführt.
+12. Sollte ein Owner nach dem Draft kein gültiges Lineup aufstellen können, kann er die nötigen FA Transaktionen machen.
 
-    > **_COMMISH Note:_** Wenn das der Fall ist muss das Week 1 Waiver Wire manuell durchgeführt werden. Dazu die Waiver Wire Aktion im Transaction Kalender einfach eine Woche nach hinten schieben und das Waiver Wire [manuell durchführen](https://www45.myfantasyleague.com/2024/options?L=54277&O=47).
+    1. Der Owner übermittel dem Commissioner eine Liste an Spielern, die er aufnehmen möchte (wenn nötig auch den zu droppenden Spieler).
+    2. Für jeden dieser Spieler würfelt der Owner mit einem sechseitigen Würfel (online oder analog - auf Vertrauensbasis) einen Wert.
+    3. Der Owner bekommt den Free Agent, der im [MFL ADP Report](https://www45.myfantasyleague.com/2024/reports?L=54277&R=ADP) seiner Position dem Würfelergebnis entspricht.
+    4. Gibt es mehrere Owner, die dieses Prozedere durchlaufen, gilt die Waiver Reihenfolge für das Ausführen der Transaktionen. Jede Transaktion ist dabei eine neue Runde.
+    5. Für jede Transaktion eines Owners verliert er eine Runde vom Week 1 Waiver Wire. Aus technischen Gründen muss dann für Woche 1 das Waiver Wire manuell durchgeführt werden. Dies geschieht am Mittwoch nach Woche 1, so bald ein Commissioner Zeit hat. Der FA Markt öffnet dann an diesem Tag 18 Uhr.
+    
+    > **_COMMISH Note:_** Wenn das der Fall ist muss das Week 1 Waiver Wire manuell durchgeführt werden. Dazu die Waiver Wire Aktion im Transaction Kalender einfach eine Woche nach hinten schieben und das Waiver Wire [manuell durchführen](https://www45.myfantasyleague.com/2024/options?L=54277&O=47). Außerdem eine Aktion anlegen, dass alle gelockten Spieler um 18 Uhr freigegeben werden.
