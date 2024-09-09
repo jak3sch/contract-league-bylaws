@@ -801,7 +801,9 @@ Fantasy Football (NFL) Ligen.
         einen Wert.
     3.  Der Owner bekommt den Free Agent, der im [MFL ADP
         Report](https://www45.myfantasyleague.com/2024/reports?L=54277&R=ADP)
-        seiner Position dem Würfelergebnis entspricht.
+        seiner Position dem Würfelergebnis entspricht. Gibt es weniger
+        als 6 Spieler im ADP Report wird die Liste der Top Free Agents
+        aus der letzten Saison genommen.
     4.  Gibt es mehrere Owner, die dieses Prozedere durchlaufen, gilt
         die Waiver Reihenfolge für das Ausführen der Transaktionen. Jede
         Transaktion ist dabei eine neue Runde.

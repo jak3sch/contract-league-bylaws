@@ -26,7 +26,7 @@
 
     1. Der Owner übermittel dem Commissioner eine Liste an Spielern, die er aufnehmen möchte (wenn nötig auch den zu droppenden Spieler).
     2. Für jeden dieser Spieler würfelt der Owner mit einem sechseitigen Würfel (online oder analog - auf Vertrauensbasis) einen Wert.
-    3. Der Owner bekommt den Free Agent, der im [MFL ADP Report](https://www45.myfantasyleague.com/2024/reports?L=54277&R=ADP) seiner Position dem Würfelergebnis entspricht.
+    3. Der Owner bekommt den Free Agent, der im [MFL ADP Report](https://www45.myfantasyleague.com/2024/reports?L=54277&R=ADP) seiner Position dem Würfelergebnis entspricht. Gibt es weniger als 6 Spieler im ADP Report wird die Liste der Top Free Agents aus der letzten Saison genommen.
     4. Gibt es mehrere Owner, die dieses Prozedere durchlaufen, gilt die Waiver Reihenfolge für das Ausführen der Transaktionen. Jede Transaktion ist dabei eine neue Runde.
     5. Für jede Transaktion eines Owners verliert er eine Runde vom Week 1 Waiver Wire. Aus technischen Gründen muss dann für Woche 1 das Waiver Wire manuell durchgeführt werden. Dies geschieht am Mittwoch nach Woche 1, so bald ein Commissioner Zeit hat. Der FA Markt öffnet dann an diesem Tag 18 Uhr.
     
