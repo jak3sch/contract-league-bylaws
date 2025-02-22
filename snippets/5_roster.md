@@ -14,9 +14,9 @@
    |                      | 2 LB/CB/S            |
 
    = 22 Starter + 20 BNCH = 42 aktive Spieler + 2 TS
-   = 44er Roster + 6 IR
+   = 44er Roster + 8 IR
 
-   In der Offseason + IR = 50
+   In der Offseason + IR = 52
 
 2. Positionsgruppen
 

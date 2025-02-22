@@ -24,6 +24,7 @@
    | Undrafted Free Agent (NFL Rookies only)                                | UDFA  | max 3 Jahre                                                                       |
    | Unrestricted Free Agent                                                | UFA   | max 5 Jahre                                                                       |
    | Unrestricted Free Agent in-season Signing                              | UFAi  | min 1 Jahr                                                                        |
+   | Future Contract Signing                              | FC  | 1 Jahr                                                                        |
 
 7. Free Agents unter Vertrag nehmen
 

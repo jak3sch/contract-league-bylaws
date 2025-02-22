@@ -227,6 +227,11 @@ Fantasy Football (NFL) Ligen.
     <td>UFAi</td>
     <td>min 1 Jahr</td>
     </tr>
+    <tr class="odd">
+    <td>Future Contract Signing</td>
+    <td>FC</td>
+    <td>1 Jahr</td>
+    </tr>
     </tbody>
     </table>
 
@@ -318,10 +323,10 @@ Fantasy Football (NFL) Ligen.
     </tbody>
     </table>
 
-    = 22 Starter + 20 BNCH = 42 aktive Spieler + 2 TS = 44er Roster + 6
+    = 22 Starter + 20 BNCH = 42 aktive Spieler + 2 TS = 44er Roster + 8
     IR
 
-    In der Offseason + IR = 50
+    In der Offseason + IR = 52
 
 2.  Positionsgruppen
 
@@ -457,7 +462,7 @@ Fantasy Football (NFL) Ligen.
 1.  Pro Woche gibt es bis zu 2 Victory Points.
 
     1.  1 Punkt für ein gewonnenes Matchup
-    2.  1 Punkt für eine Top-5 Platzierung am Spieltag nach Total Points
+    2.  1 Punkt für eine Top-6 Platzierung am Spieltag nach Total Points
 
 2.  Standing Tiebreaker
 
@@ -483,7 +488,9 @@ Fantasy Football (NFL) Ligen.
     Würfeln live überträgt. Alternativ können die Commissioner würfeln.
 6.  Die Offseason teilt sich in 4 Phasen.
 
-### Phase 1: Restricted Free Agents (RFA)
+### Phase 1: Restricted Free Agents (RFA) + Future Contracts
+
+## Restricted Free Agents
 
 1.  Alle Spieler mit einer Vertragslaufzeit von 0 können vom besitzenden
     Owner als Restricted Free Agent (RFA) getaggt werden.
@@ -538,6 +545,21 @@ Fantasy Football (NFL) Ligen.
 > ***COMISH NOTE:*** Bis zum Ende der Auktion Trade Approval aktivieren.
 > Nach RFA Tag Deadline die getaggten Spieler als [nicht droppable
 > definieren](https://www45.myfantasyleague.com/2023/csetup?L=54277&C=CANTCUT).
+
+## Future Contracts
+
+1.  Alle Spieler, die sich auf einem Taxi Squad befinden und eine
+    Vertragslaufzeit von 0 haben, können mit Future Contracts verlängert
+    werden (im “Verträge” Menü).
+2.  Future Contracts gehen über 1 Jahr.
+3.  Mit Future Contract Spielern kann im Verlauf der Offseason normal
+    verlängert werden.
+
+> ***COMISH NOTE:*** Zu Beginn der Offseason haben diese Spieler eine
+> Vertragslaufzeit von -1. Dies muss [manuell auf 0 geändert
+> werden](https://www45.myfantasyleague.com/2025/csetup?L=54277&C=SALARIES&DISPLAY=LEAGUE&POS=*&FRANCHISE=0000&CATEGORY=ROSTER).
+> Zudem erhalten diese Spieler den Prefix FC an ihren Contract Status,
+> welcher vor Beginn der nächsten Phase wieder entfernt werden muss.
 
 ### Phase 2: Vertragsverlängerungen
 
@@ -769,7 +791,7 @@ Fantasy Football (NFL) Ligen.
         zwischen Draft und Season Start.
 
     > ***COMMISH NOTE:*** [Franchise Ability “Drop”
-    > deaktivieren](https://www45.myfantasyleague.com/2024/options?L=54277&O=93)
+    > deaktivieren](https://www45.myfantasyleague.com/2025/options?L=54277&O=93)
     > und FA Markt öffnen.
 
 5.  Es werden alle Runden nach der ermittelten Reihenfolge gedraftet.
@@ -800,7 +822,7 @@ Fantasy Football (NFL) Ligen.
         sechseitigen Würfel (online oder analog - auf Vertrauensbasis)
         einen Wert.
     3.  Der Owner bekommt den Free Agent, der im [MFL ADP
-        Report](https://www45.myfantasyleague.com/2024/reports?L=54277&R=ADP)
+        Report](https://www45.myfantasyleague.com/2025/reports?L=54277&R=ADP)
         seiner Position dem Würfelergebnis entspricht. Gibt es weniger
         als 6 Spieler im ADP Report wird die Liste der Top Free Agents
         aus der letzten Saison genommen.
@@ -817,7 +839,7 @@ Fantasy Football (NFL) Ligen.
     > Wire manuell durchgeführt werden. Dazu die Waiver Wire Aktion im
     > Transaction Kalender einfach eine Woche nach hinten schieben und
     > das Waiver Wire [manuell
-    > durchführen](https://www45.myfantasyleague.com/2024/options?L=54277&O=47).
+    > durchführen](https://www45.myfantasyleague.com/2025/options?L=54277&O=47).
     > Außerdem eine Aktion anlegen, dass alle gelockten Spieler um 18
     > Uhr freigegeben werden.
 
@@ -974,12 +996,13 @@ wende dich bitte an die Commissioner.
 ## §17 Pool Picks & Survivor Pool
 
 1.  Über MFL können die Owner an [NFL Pool
-    Picks](https://www45.myfantasyleague.com/2024/options?L=54277&O=121)
+    Picks](https://www45.myfantasyleague.com/2025/options?L=54277&O=121)
     und einem NFL [Survivor
-    Pool](https://www45.myfantasyleague.com/2024/options?L=54277&O=120)
+    Pool](https://www45.myfantasyleague.com/2025/options?L=54277&O=120)
     teilnehmen.
 2.  Der Gewinn eines der beiden Wettbewerbe gibt in der kommenden
     Offseason +1 Bonus auf den Prestige-Wert.
+3.  Es wird nur die Regular Season der NFL getippt.
 
 ### NFL Pool Picks
 
@@ -991,5 +1014,25 @@ wende dich bitte an die Commissioner.
 1.  Jede Woche wird ein Team getippt, das gewinnen wird. Ist der Tipp
     korrekt, geht es in die nächste Runde. Ist der Tipp falsch, verliert
     der Owner ein Leben.
+
 2.  Jeder Owner hat 2 Leben. Sind beide aufgebraucht, scheidet der Owner
     aus aus dem Wettbewerb aus.
+
+3.  Um den Wettberwerb zu gewinnen, muss eine mindestanzahl an Wochen
+    überlebt werden. Diese berechnet sich wie folgt:
+
+    -   Die Punkte des Siegers der NFL Pool Picks werden durch die
+        maximal möglichen Punkte gerechnet (bei 18 NFL Wochen sind das
+        272).
+
+    -   Das Ergebnis ist eine prozentuale Trefferquote, die auf die NFL
+        Wochen umgerechnet wird:
+
+        x / 272 \* 18
+
+    -   Das Ergbenis wird nach mathematischen Regeln gerundet und ergibt
+        die Woche, die der Sieger des NFL Survivor Pool mindestens
+        überlebt haben muss.
+
+4.  Sollten am Ende der Saison mehrere Teams am leben sein, erhalten
+    alle den Sieg.
