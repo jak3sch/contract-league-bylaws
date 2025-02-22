@@ -1,4 +1,4 @@
-## Ligapokal
+## §16 Ligapokal
 
 1. Parallel zum normalen Ligabetrieb findet ein Pokalwettbewerb statt.
 2. Der Sieger des Ligapokals bekommt +1 auf seinen Prestigewert in der anschließenden Offseason.

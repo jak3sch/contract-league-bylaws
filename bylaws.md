@@ -922,7 +922,7 @@ Sollten dir zu den genannten Punkten unregelmäßigkeiten in der Liga
 auffallen (z.B. weil dein Gegner inaktive Spieler aufgestellt hat),
 wende dich bitte an die Commissioner.
 
-## Ligapokal
+## §16 Ligapokal
 
 1.  Parallel zum normalen Ligabetrieb findet ein Pokalwettbewerb statt.
 
