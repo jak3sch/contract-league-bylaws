@@ -66,6 +66,9 @@ Der [Bohndesverband für Fantasy-Sport](https://bohndesverband.de/) ist ein [Roc
 ```{r, child = "snippets/12_offseason/12_4-vertragsverhandlungen.md"}
 ```
 
+```{r, child = "snippets/12_offseason/12_5-compensatory-picks.md"}
+```
+
 ```{r, child = "snippets/13_draft.md"}
 ```
 
