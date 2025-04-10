@@ -15,17 +15,14 @@
 6. Die Matchups im Ligapokal finden im Category Head-to-Head Format statt.
 7. Gespielt wird in folgenden Kategorien:
 
-   1. Passing Yards
-   2. Rushing Yards
-   3. Receiving Yards
-   4. Special Teams Yards (Total Length of Field Goals + Total Punt Yards)
-   5. Total Touchdowns (Passing, Rushing, Receiving, Defensive)
-   6. Total Turnovers (Interceptions Thrown, Fumbles Lost)
-   7. Total Tackles (Solo + Assists)
-   8. Tackles for Loss
-   9. QB Hits
-   10. Total Turnovers (Forced Fumbles + Interceptions Caught)
-   11. Sacks
+   1. Air Yards (Total Passing Yards + Total Receiving Yards)
+   2. Ground Yards (Total Rushing Yards)
+   3. Special Teams Yards (Total Length of Field Goals + Total Punt Yards)
+   4. Tackles (Solo + Assists + QB Hits)
+   5. Defensive Big Plays (Sacks, TFL, Pass Breakups)
+   6. Net Yards (Air Yards + Ground Yards - TFL YDS - Sack YDS - FMBL Return YDS - INT Return YDS)
+   7. Scoring Plays (Total Touchdowns + Total XP + Total 2 PT Conv + Total Safeties - geben alle so viele Punkte wie in der NFL)
+   8. Turnover (INT Cought + FF + FMBL Recovered - INT - FMBL Lost)
 
 9. Für jedes Matchup darf ein Spieler pro Positionsgruppe übermittelt werden.
 10. Alle Spieler werden in allen Kategorien berücksichtigt.
